@@ -46,14 +46,14 @@
           <div class="tint tint-light"></div>
           <div class="row">
             <div class="columns small-12 medium-4 small-centered">
-              <ul>
-  							<li>Hedge Fund Equity Long/Short Investigations</li>
-  							<li>Private Equity Asset Diligence</li>
-  							<li>Employee Screening</li>
-  							<li>Banking Intelligence Support</li>
-  							<li>Anti-Money Laundering (AML) Investigative Support</li>
-  							<li>Internal Investigations</li>
-  						</ul>
+                <ul>
+    				<li>Hedge Fund Equity Long/Short Investigations</li>
+    				<li>Private Equity Asset Diligence</li>
+    				<li>Employee Screening</li>
+    				<li>Banking Intelligence Support</li>
+    				<li>Anti-Money Laundering (AML) Investigative Support</li>
+    				<li>Internal Investigations</li>
+    			</ul>
             </div>
           </div>
         </div>
@@ -83,30 +83,25 @@
             <div class="columns small-12 medium-8 small-centered">
               <p>Oculus can offer certain technical services for the benefit of our clients including but not limited to:</p>
 
-    					<h5>Technical Surveillance Counter Measures (TSCM)</h5>
+    					<h5>TECHNICAL SURVEILLANCE COUNTER MEASURES (TSCM) SWEEPING SERVICES</h5>
     					<p>Clients, for peace of mind, may wish to have their premises regularly inspected to ensure no unwanted audio/visual devices are in place. This service can be conducted on demand or on a retained basis.</p>
 
-    					<h5>Cyber Security</h5>
-    					<p>Oculus offer consultancy services in Cyber Security and can provide clients with AES 256 encrypted communication systems to supplement recommendations made to our clients.</p>
+    					<h5>IT INFRASTRUCTURE CYBER SECURITY & PENETRATION TESTING</h5>
+    					<p>Oculus conduct penetration tests on IT infrastructure and offer consultancy in cyber security.</p>
 
-    					<h5>Physical Security (Covert and Overt)</h5>
+                        <h5>COMMUNICATIONS PENETRATION TESTING</h5>
+                        <p>Oculus conduct penetration tests on communications infrastructure and can provide clients with AES 256 encrypted communication systems to supplement any recommendations made.</p>
+
+    					<h5>PHYSICAL SECURITY (COVERT &amp; OVERT)</h5>
     					<p>Certain clients who are handling or have access to highly sensitive information may be advised by Oculus to retain some form of physical security provided by Oculus. This may include close protection, access control, CCTV installation and monitoring, rapid response, high risk witness protection, surveillance and counter-surveillance and personal/family security awareness training.</p>
+
     					<p>The above can be offered as a complete holistic package for any client who feels they are being or are at risk of being compromised both technically and physically.</p>
             </div>
             </div>
       </div>
     </div>
 
-
-
-
     </div>
-
-
-
-
-
-
 
     <div class="tabs-panel" id="corporate-clients">
 
@@ -146,12 +141,12 @@
           <div class="tint tint-light"></div>
           <div class="row">
             <div class="columns small-12 medium-4 small-centered">
-              <ul>
-								<li>FCA/SEC Regulatory Disputes</li>
-								<li>Corporate Crisis Management Intelligence Support</li>
-								<li>Contract Disputes</li>
-								<li>Shareholder Action</li>
-							</ul>
+                <ul>
+					<li>FCA/SEC Regulatory Disputes</li>
+					<li>Corporate Crisis Management Intelligence Support</li>
+					<li>Contract Disputes</li>
+					<li>Shareholder Action</li>
+				</ul>
             </div>
           </div>
         </div>
@@ -161,13 +156,16 @@
             <div class="columns small-12 medium-8 small-centered">
               <p>Oculus can offer certain technical services for the benefit of our clients including but not limited to:</p>
 
-              <h5>Technical Surveillance Counter Measures (TSCM)</h5>
+              <h5>TECHNICAL SURVEILLANCE COUNTER MEASURES (TSCM) SWEEPING SERVICES</h5>
               <p>Clients, for peace of mind, may wish to have their premises regularly inspected to ensure no unwanted audio/visual devices are in place. This service can be conducted on demand or on a retained basis.</p>
 
-              <h5>Cyber Security</h5>
-              <p>Oculus offer consultancy services in Cyber Security and can provide clients with AES 256 encrypted communication systems to supplement recommendations made to our clients.</p>
+              <h5>IT INFRASTRUCTURE CYBER SECURITY &amp; PENETRATION TESTING</h5>
+              <p>Oculus conduct penetration tests on IT infrastructure and offer consultancy in cyber security.</p>
 
-              <h5>Physical Security (Covert and Overt)</h5>
+              <h5>COMMUNICATIONS PENETRATION TESTING</h5>
+              <p>Oculus conduct penetration tests on communications infrastructure and can provide clients with AES 256 encrypted communication systems to supplement any recommendations made.</p>
+
+              <h5>PHYSICAL SECURITY (COVERT &amp; OVERT)</h5>
               <p>Certain clients who are handling or have access to highly sensitive information may be advised by Oculus to retain some form of physical security provided by Oculus. This may include close protection, access control, CCTV installation and monitoring, rapid response, high risk witness protection, surveillance and counter-surveillance and personal/family security awareness training.</p>
               <p>The above can be offered as a complete holistic package for any client who feels they are being or are at risk of being compromised both technically and physically.</p>
             </div>
@@ -194,11 +192,11 @@
                 <div class="row">
                   <div class="columns small-12 medium-4 small-centered">
                     <ul>
-												<li>Pre-Investment Due Diligence</li>
-												<li>Prospective Business Relations</li>
-												<li>Character Verification</li>
-												<li>Personal Profile Management</li>
-											</ul>
+						<li>Pre-Investment Due Diligence</li>
+						<li>Prospective Business Relations</li>
+						<li>Character Verification</li>
+						<li>Personal Profile Management</li>
+					</ul>
                   </div>
                 </div>
               </div>
@@ -207,11 +205,11 @@
                 <div class="row">
                   <div class="columns small-12 medium-4 small-centered">
                     <ul>
-												<li>Divorce Asset Investigations</li>
-												<li>Unpaid Debts</li>
-												<li>Estate Disputes</li>
-												<li>Misappropriation of Assets</li>
-											</ul>
+						<li>Divorce Asset Investigations</li>
+						<li>Unpaid Debts</li>
+						<li>Estate Disputes</li>
+						<li>Misappropriation of Assets</li>
+					</ul>
                   </div>
                 </div>
               </div>
@@ -220,10 +218,10 @@
                 <div class="row">
                   <div class="columns small-12 medium-4 small-centered">
                     <ul>
-												<li>Divorce Disputes</li>
-												<li>Crisis Management Intelligence Support</li>
-												<li>Inheritance Disputes</li>
-											</ul>
+						<li>Divorce Disputes</li>
+						<li>Crisis Management Intelligence Support</li>
+						<li>Inheritance Disputes</li>
+					</ul>
                   </div>
                 </div>
               </div>
@@ -233,14 +231,18 @@
                   <div class="columns small-12 medium-8 small-centered">
                     <p>Oculus can offer certain technical services for the benefit of our clients including but not limited to:</p>
 
-                    <h5>Technical Surveillance Counter Measures (TSCM)</h5>
+                    <h5>TECHNICAL SURVEILLANCE COUNTER MEASURES (TSCM) SWEEPING SERVICES</h5>
                     <p>Clients, for peace of mind, may wish to have their premises regularly inspected to ensure no unwanted audio/visual devices are in place. This service can be conducted on demand or on a retained basis.</p>
 
-                    <h5>Cyber Security</h5>
-                    <p>Oculus offer consultancy services in Cyber Security and can provide clients with AES 256 encrypted communication systems to supplement recommendations made to our clients.</p>
+                    <h5>IT INFRASTRUCTURE CYBER SECURITY &amp; PENETRATION TESTING</h5>
+                    <p>Oculus conduct penetration tests on IT infrastructure and offer consultancy in cyber security.</p>
 
-                    <h5>Physical Security (Covert and Overt)</h5>
+                    <h5>COMMUNICATIONS PENETRATION TESTING</h5>
+                    <p>Oculus conduct penetration tests on communications infrastructure and can provide clients with AES 256 encrypted communication systems to supplement any recommendations made.</p>
+
+                    <h5>PHYSICAL SECURITY (COVERT &amp; OVERT)</h5>
                     <p>Certain clients who are handling or have access to highly sensitive information may be advised by Oculus to retain some form of physical security provided by Oculus. This may include close protection, access control, CCTV installation and monitoring, rapid response, high risk witness protection, surveillance and counter-surveillance and personal/family security awareness training.</p>
+
                     <p>The above can be offered as a complete holistic package for any client who feels they are being or are at risk of being compromised both technically and physically.</p>
                   </div>
                   </div>
