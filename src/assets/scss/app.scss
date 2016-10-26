@@ -1,0 +1,355 @@
+@charset 'utf-8';
+
+@import 'settings';
+@import 'foundation';
+@import 'motion-ui';
+
+@include foundation-global-styles;
+@include foundation-grid;
+// @include foundation-flex-grid;
+@include foundation-typography;
+@include foundation-button;
+@include foundation-forms;
+// @include foundation-range-input;
+@include foundation-accordion;
+@include foundation-accordion-menu;
+@include foundation-badge;
+@include foundation-breadcrumbs;
+@include foundation-button-group;
+@include foundation-callout;
+@include foundation-close-button;
+@include foundation-menu;
+@include foundation-menu-icon;
+@include foundation-drilldown-menu;
+@include foundation-dropdown;
+@include foundation-dropdown-menu;
+@include foundation-flex-video;
+@include foundation-label;
+@include foundation-media-object;
+@include foundation-off-canvas;
+@include foundation-orbit;
+@include foundation-pagination;
+@include foundation-progress-bar;
+// @include foundation-progress-element;
+// @include foundation-meter-element;
+@include foundation-slider;
+@include foundation-sticky;
+@include foundation-reveal;
+@include foundation-switch;
+@include foundation-table;
+@include foundation-tabs;
+@include foundation-thumbnail;
+@include foundation-title-bar;
+@include foundation-tooltip;
+@include foundation-top-bar;
+@include foundation-visibility-classes;
+@include foundation-float-classes;
+// @include foundation-flex-classes;
+
+@include motion-ui-transitions;
+@include motion-ui-animations;
+
+// 1. Colours
+// 2. Colour Settings
+// 3. Headers
+// 4. Background Images
+// 4. Nav (main) styling
+// 5. Hero container
+// 6. Call to action bar
+// 7. Colours
+
+//colours
+$oc-blue       :#202C59;
+$oc-grey       :#87888A;
+$oc-light      :#fff;
+$oc-dark-tint  :rgba(68,68,68,0.8);
+$oc-light-tint :rgba(200,200,200,0.85);
+$action       :#f3c859;
+
+$oc-grey-dark  :#333;
+
+//COLOUR SETTINGS
+//nav
+$main-nav-bg-colour         : $oc-dark-tint;
+$main-nav-text-colour       : $oc-grey;
+$main-nav-hover-colour      : $oc-light;
+
+//hero
+$tint-colour                : $oc-light-tint;
+$hero-font-colour           : $oc-grey-dark;
+
+//button
+$oc-button-border-colour    : rgba(0,0,0,0.1);
+$oc-button-hover-colour     : $action;
+
+//Content Tabs Custom Colours
+$sub-tabs-bg-colour         : #eee;
+$sub-tabs-active-colour     : #ddd;
+
+//call to action
+$call-to-action-colour      : $action;
+$call-to-action-bg          : $oc-dark-tint;
+$call-to-action-text-colour : $oc-light;
+
+//footer
+$footer-bg-colour           : $oc-grey-dark;
+$footer-heading-colour      : $oc-light;
+$footer-text-colour         : $oc-grey;
+
+//colour classes
+.action{color:$action;}
+
+// Header fonts
+h1, h2, h3, h4, h5, h6{
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+}
+
+h1#title{
+  padding:1rem;
+  position:relative;
+  // background-color: $oc-dark-tint;
+  display: inline-block;
+  text-align: center;
+  line-height: 1;
+  vertical-align: middle;
+  margin: 3rem 0;
+}
+
+.loadanimation::after{
+  content: '';
+  position:absolute;
+  height: calc(100% + 2px);
+  width:0;
+  top:-1px;
+  left:50%;
+  border-top: 1px solid $oc-button-border-colour;
+  border-bottom: 1px solid $oc-button-border-colour;
+  // background-color: $oc-dark-tint;
+  transform: translateX(-50%);
+  display:block;
+}
+
+.loadedanimation::after{
+  width:150%;
+  transition: width 3s ease-out;
+}
+
+// Background images for all pages and page sections
+.home-background      {background-image: url(../img/bw/hero-bg-2.png);}
+.services-background  {background-image: url(../img/bw/working-with-clients-1.png);}
+.how-background       {background-image: url(../img/bw/working-with-clients-2.png);}
+.partners-background  {background-image: url(../img/bw/qf-partners-2.png);}
+.contact-background   {background-image: url(../img/bw/header-5.png);}
+
+.services1-background  {background-image: url(../img/bw/service1.jpg);}
+.services2-background  {background-image: url(../img/bw/service2.jpg);}
+.services3-background  {background-image: url(../img/bw/service3.jpg);}
+
+// HELPERS
+.nomargin{margin:0;}
+.nopad{padding:0;}
+
+//BRAND ICON LOGO
+$logo-svg: url(../img/brand/oculus-logo.svg) ;
+$logo-png: url(../img/brand/oculus-logo.png) ;
+
+$icon-svg: url(../img/brand/oculus-icon.svg) ;
+$icon-png: url(../img/brand/oculus-icon.png) ;
+
+.icon{
+  background-image:$icon-svg;
+  background-repeat:no-repeat;
+  display: inline-block;
+  height:56px;
+  width:65px;
+  margin:0;
+  padding:0;
+}
+
+.logo{
+  background-image:$logo-svg;
+  background-repeat:no-repeat;
+  display: inline-block;
+  height:60px;
+  width:224px;
+  margin:0;
+  padding:0;
+}
+
+.no-svg .icon{background-image:$icon-png;}
+.no-svg .logo{background-image:$logo-png;}
+
+//button
+.ocbutton {
+  display: inline-block;
+  text-align: center;
+  line-height: 1;
+  cursor: pointer;
+  -webkit-appearance: none;
+  // transition: background-color 0.25s ease-out, color 0.25s ease-out;
+  vertical-align: middle;
+  padding: 0.85em 1em;
+  border-top: 1px solid $oc-button-border-colour;
+  border-bottom: 1px solid $oc-button-border-colour;
+  position:relative;
+}
+
+.ocbutton::after {
+  content: '';
+  display: block;
+  background-color: none;
+  position: absolute;
+  top:-1px;
+  left:50%;
+  width:0%;
+  height: calc(100% + 2px);
+  border-top: 1px solid $oc-button-hover-colour;
+  border-bottom: 1px solid $oc-button-hover-colour;
+  transform: translateX(-50%) ;
+  transition: width 0.5s ease-in-out;
+}
+
+.ocbutton:hover{
+  color:$action;
+}
+
+.ocbutton:hover::after{
+  width:100%;
+  transition: width 0.5s ease-out;
+}
+
+//Nav
+nav#main{
+  position:fixed;
+  top:0;
+  width:100%;
+  z-index:1;
+  #menu{
+    background-color: $main-nav-bg-colour;
+    a{
+      padding:2rem 1.5rem;
+      color:$main-nav-text-colour;
+      text-transform:uppercase;
+      font-size: 0.9rem;
+      letter-spacing: 0.12rem;
+      transition: color 0.3s ease-in-out;
+    }
+    a:hover{
+      color:$main-nav-hover-colour;
+      transition: color 0.3s ease-in-out;
+    }
+  }
+}
+
+
+//hero background styling
+section{
+  position:relative;
+  div{position:relative;}
+}
+
+.hero{
+  padding:8rem 0;
+  color: $hero-font-colour;
+}
+
+.full-height-hero{min-height:70vh;}
+.half-height-hero{min-height:40vh;}
+
+.background{
+  background-position: center;
+  background-size: cover;
+}
+
+.tint{
+  position: absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  height:100%;
+  width:100%;
+}
+
+.tint-light{
+  // background-color: $tint-colour;
+  background: -moz-linear-gradient(top,  rgba(255,255,255,0.5) 0%, rgba(255,255,255,1) 100%);
+background: -webkit-linear-gradient(top,  rgba(255,255,255,0.5) 0%,rgba(255,255,255,1) 100%);
+background: linear-gradient(to bottom,  rgba(255,255,255,0.5) 0%,rgba(255,255,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=0 );
+
+}
+
+//call-to-action-bar
+#call-to-action{
+  background-color: $call-to-action-bg;
+  padding:2rem 0;
+  position:absolute;
+  bottom:0;
+  width:100%;
+  color:$call-to-action-text-colour;
+  h6{margin:0;}
+  i{color:$call-to-action-colour;}
+  .button{margin:0;}
+}
+
+// FOOTER
+footer{
+  background-color:$footer-bg-colour;
+  color:$footer-text-colour;
+  text-transform: uppercase;
+  letter-spacing: 0.25rem;
+  font-size: 0.8rem;
+  padding:2rem 0;
+  ul{margin:0;}
+  li{list-style: none;}
+  a{color:$footer-text-colour;}
+  h3{color:$footer-heading-colour;}
+  p.email{text-transform: lowercase; letter-spacing: 0.1rem;}
+}
+
+footer#copy-footer{
+  letter-spacing: 0.15rem;
+  padding-top:0;
+}
+
+//TABS
+ul.tabs {
+    text-align: center;
+    li {
+        float: none !important;
+        display: inline-block;
+        a{font-size: 1rem;}
+    }
+}
+
+// .tabs-title {text-transform:uppercase;}
+
+.parent-tabs > .tabs-panel{padding:0;}
+.sub-tabs-content > .tabs-panel {padding-bottom:7rem; min-height: 30rem;}
+.how-we-work-tabs > .tabs-panel {padding:1rem; padding-bottom:7rem; min-height: 20rem;}
+
+
+ul.sub-tabs{
+  background-color: $sub-tabs-bg-colour;
+  .tabs-title > a:focus, .tabs-title > a[aria-selected='true']{background-color: $sub-tabs-active-colour;}
+}
+
+.tabs-panel{background-size: cover;}
+// #panelh1{background-image: url(../img/bw/hero-bg-2.png);}
+
+// prevent flash of unstyled content for responsive nav
+.no-js {
+  @include breakpoint(small only) {
+    #menu {
+      display: none;
+    }
+  }
+
+  @include breakpoint(medium) {
+    .title-bar {
+      display: none;
+    }
+  }
+}
