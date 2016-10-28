@@ -334,7 +334,7 @@ ul.tabs {
 // .tabs-title {text-transform:uppercase;}
 
 .parent-tabs > .tabs-panel{padding:0;}
-.sub-tabs-content > .tabs-panel {padding-bottom:15rem; min-height: 27rem; padding-top:3rem;}
+.sub-tabs-content > .tabs-panel {padding-bottom:12rem; min-height: 27rem; padding-top:3rem;}
 .how-we-work-tabs > .tabs-panel {padding:1rem; padding-bottom:7rem; min-height: 20rem;}
 
 
@@ -393,4 +393,10 @@ color:#333;
 
 .tabs-title > a:hover {
     background: #293256;
+    color: #fff;
+}
+
+
+iframe {
+    margin-bottom: -6px;
 }

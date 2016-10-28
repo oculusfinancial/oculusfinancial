@@ -52,6 +52,8 @@
         <p>We provide our clients with quality assured information using an investigations service with a global reach enabling informed decision making of the highest quality.</p>
 
         <p>Unlike standalone accounting, legal and private investigator practices our product fuses financial, intelligence and legal skills to provide targeted, detailed and actionable insights.</p>
+
+        <br><br><br><br><br><br><br>
       </div>
     </div>
 </section>
