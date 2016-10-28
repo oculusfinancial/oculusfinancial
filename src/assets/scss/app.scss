@@ -60,13 +60,13 @@
 
 //colours
 $oc-blue       :#202C59;
-$oc-grey       :#87888A;
+$oc-grey       :#fff;
 $oc-light      :#fff;
-$oc-dark-tint  :rgba(68,68,68,0.8);
+$oc-dark-tint  :#182144;
 $oc-light-tint :rgba(200,200,200,0.85);
 $action       :#f3c859;
 
-$oc-grey-dark  :#333;
+$oc-grey-dark  :#060d1e;
 
 //COLOUR SETTINGS
 //nav
@@ -88,13 +88,18 @@ $sub-tabs-active-colour     : #ddd;
 
 //call to action
 $call-to-action-colour      : $action;
-$call-to-action-bg          : $oc-dark-tint;
-$call-to-action-text-colour : $oc-light;
+$call-to-action-bg          : rgba(255,255,2555,.8);
+$call-to-action-text-colour : #000;
 
 //footer
 $footer-bg-colour           : $oc-grey-dark;
 $footer-heading-colour      : $oc-light;
 $footer-text-colour         : $oc-grey;
+
+body {
+    color: #333;
+    background: #fff;
+}
 
 //colour classes
 .action{color:$action;}
@@ -227,6 +232,7 @@ nav#main{
   z-index:1;
   #menu{
     background-color: $main-nav-bg-colour;
+    font-size: 0;
     a{
       padding:2rem 1.5rem;
       color:$main-nav-text-colour;
@@ -250,7 +256,7 @@ section{
 }
 
 .hero{
-  padding:8rem 0;
+  padding: 11rem 0 0rem 0;
   color: $hero-font-colour;
 }
 
@@ -284,6 +290,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 //call-to-action-bar
 #call-to-action{
   background-color: $call-to-action-bg;
+  border-top: solid 1px #efefef;
   padding:2rem 0;
   position:absolute;
   bottom:0;
@@ -327,7 +334,7 @@ ul.tabs {
 // .tabs-title {text-transform:uppercase;}
 
 .parent-tabs > .tabs-panel{padding:0;}
-.sub-tabs-content > .tabs-panel {padding-bottom:7rem; min-height: 30rem;}
+.sub-tabs-content > .tabs-panel {padding-bottom:15rem; min-height: 27rem; padding-top:3rem;}
 .how-we-work-tabs > .tabs-panel {padding:1rem; padding-bottom:7rem; min-height: 20rem;}
 
 
@@ -352,4 +359,38 @@ ul.sub-tabs{
       display: none;
     }
   }
+}
+
+.tabs {
+    margin: 0;
+    list-style-type: none;
+    background: #182144;
+    border: 1px solid none;
+}
+
+.tabs-panel li {
+    list-style-type: none;
+    line-height: 2;
+    text-align: center;
+}
+
+.tabs-title a {
+color:#fff;
+}
+
+.tabs-title.is-active a {
+color:#333;
+}
+
+.sub-tabs .tabs-title a:hover {
+color:#000;
+background:#ddd;
+}
+
+.sub-tabs .tabs-title a {
+color:#333;
+}
+
+.tabs-title > a:hover {
+    background: #293256;
 }
