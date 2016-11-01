@@ -53,6 +53,7 @@
       <div class="tint tint-light"></div>
       <div class="row">
         <div class="columns small-12 medium-8 small-centered">
+            <h5 class="subheading">Methodology</h5>
             <p>Oculus ensures that all its methods of intelligence gathering are legally admissible given the context of the clients’ intentions and do not compromise the outcome or utility to the client of our work. Oculus uses various combinations of the following intelligence gathering disciplines:</p>
 			<br>
 			<ul>

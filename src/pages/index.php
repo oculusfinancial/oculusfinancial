@@ -40,7 +40,7 @@
       <div class="logo wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"></div>
     </div>
     <div class="row column text-center">
-      <h1 id="title" class="loadanimation wow fadeIn" data-wow-duration="2s" data-wow-delay="0s">About Oculus Financial Intelligence</h1>
+      <h1 id="title" class="loadanimation wow fadeIn" data-wow-duration="2s" data-wow-delay="0s">About Oculus</h1>
     </div>
 <br>
     <div class="row">

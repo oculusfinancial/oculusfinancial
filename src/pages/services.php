@@ -47,12 +47,12 @@
           <div class="row">
             <div class="columns small-12 medium-4 small-centered">
                 <ul>
-    				<li>Hedge Fund Equity Long/Short Investigations</li>
-    				<li>Private Equity Asset Diligence</li>
-    				<li>Employee Screening</li>
-    				<li>Banking Intelligence Support</li>
-    				<li>Anti-Money Laundering (AML) Investigative Support</li>
-    				<li>Internal Investigations</li>
+    				<li class="bullet-points">Hedge Fund Equity Long/Short Investigations</li>
+    				<li class="bullet-points">Private Equity Asset Diligence</li>
+    				<li class="bullet-points">Employee Screening</li>
+    				<li class="bullet-points">Banking Intelligence Support</li>
+    				<li class="bullet-points">Anti-Money Laundering (AML) Investigative Support</li>
+    				<li class="bullet-points">Internal Investigations</li>
     			</ul>
             </div>
           </div>
@@ -62,8 +62,8 @@
           <div class="row">
             <div class="columns small-12 medium-4 small-centered">
               <ul>
-                <li>Public Market Fraud and Financial Crimes</li>
-                <li>Misappropriation of Investor Assets</li>
+                <li class="bullet-points">Public Market Fraud and Financial Crimes</li>
+                <li class="bullet-points">Misappropriation of Investor Assets</li>
               </ul>
             </div>
           </div>        </div>
@@ -72,8 +72,8 @@
           <div class="row">
             <div class="columns small-12 medium-4 small-centered">
               <ul>
-                <li>FCA/SEC Regulatory Disputes</li>
-                <li>Investment Protection</li>
+                <li class="bullet-points">FCA/SEC Regulatory Disputes</li>
+                <li class="bullet-points">Investment Protection</li>
               </ul>
             </div>
           </div>        </div>
@@ -117,11 +117,11 @@
           <div class="row">
             <div class="columns small-12 medium-4 small-centered">
               <ul>
-								<li>Merger &amp; Acquisition Targets</li>
-								<li>Pre Joint Venture Due Diligence</li>
-								<li>Delivery Partner Due Diligence</li>
-								<li>Employee Screening</li>
-								<li>Internal Investigations</li>
+								<li class="bullet-points">Merger &amp; Acquisition Targets</li>
+								<li class="bullet-points">Pre Joint Venture Due Diligence</li>
+								<li class="bullet-points">Delivery Partner Due Diligence</li>
+								<li class="bullet-points">Employee Screening</li>
+								<li class="bullet-points">Internal Investigations</li>
 							</ul>
             </div>
           </div>
@@ -131,8 +131,8 @@
           <div class="row">
             <div class="columns small-12 medium-4 small-centered">
               <ul>
-  							<li>Unpaid Receivables</li>
-  							<li>Misappropriation of Company Assets</li>
+  							<li class="bullet-points">Unpaid Receivables</li>
+  							<li class="bullet-points">Misappropriation of Company Assets</li>
   						</ul>
             </div>
           </div>
@@ -142,10 +142,10 @@
           <div class="row">
             <div class="columns small-12 medium-4 small-centered">
                 <ul>
-					<li>FCA/SEC Regulatory Disputes</li>
-					<li>Corporate Crisis Management Intelligence Support</li>
-					<li>Contract Disputes</li>
-					<li>Shareholder Action</li>
+					<li class="bullet-points">FCA/SEC Regulatory Disputes</li>
+					<li class="bullet-points">Corporate Crisis Management Intelligence Support</li>
+					<li class="bullet-points">Contract Disputes</li>
+					<li class="bullet-points">Shareholder Action</li>
 				</ul>
             </div>
           </div>
@@ -192,10 +192,10 @@
                 <div class="row">
                   <div class="columns small-12 medium-4 small-centered">
                     <ul>
-						<li>Pre-Investment Due Diligence</li>
-						<li>Prospective Business Relations</li>
-						<li>Character Verification</li>
-						<li>Personal Profile Management</li>
+						<li class="bullet-points">Pre-Investment Due Diligence</li>
+						<li class="bullet-points">Prospective Business Relations</li>
+						<li class="bullet-points">Character Verification</li>
+						<li class="bullet-points">Personal Profile Management</li>
 					</ul>
                   </div>
                 </div>
@@ -205,10 +205,10 @@
                 <div class="row">
                   <div class="columns small-12 medium-4 small-centered">
                     <ul>
-						<li>Divorce Asset Investigations</li>
-						<li>Unpaid Debts</li>
-						<li>Estate Disputes</li>
-						<li>Misappropriation of Assets</li>
+						<li class="bullet-points">Divorce Asset Investigations</li>
+						<li class="bullet-points">Unpaid Debts</li>
+						<li class="bullet-points">Estate Disputes</li>
+						<li class="bullet-points">Misappropriation of Assets</li>
 					</ul>
                   </div>
                 </div>
@@ -218,9 +218,9 @@
                 <div class="row">
                   <div class="columns small-12 medium-4 small-centered">
                     <ul>
-						<li>Divorce Disputes</li>
-						<li>Crisis Management Intelligence Support</li>
-						<li>Inheritance Disputes</li>
+						<li class="bullet-points">Divorce Disputes</li>
+						<li class="bullet-points">Crisis Management Intelligence Support</li>
+						<li class="bullet-points">Inheritance Disputes</li>
 					</ul>
                   </div>
                 </div>
@@ -231,16 +231,16 @@
                   <div class="columns small-12 medium-8 small-centered">
                     <p>Oculus can offer certain technical services for the benefit of our clients including but not limited to:</p>
 
-                    <h5>TECHNICAL SURVEILLANCE COUNTER MEASURES (TSCM) SWEEPING SERVICES</h5>
+                    <h5 class="subheading">TECHNICAL SURVEILLANCE COUNTER MEASURES (TSCM) SWEEPING SERVICES</h5>
                     <p>Clients, for peace of mind, may wish to have their premises regularly inspected to ensure no unwanted audio/visual devices are in place. This service can be conducted on demand or on a retained basis.</p>
 
-                    <h5>IT INFRASTRUCTURE CYBER SECURITY &amp; PENETRATION TESTING</h5>
+                    <h5 class="subheading">IT INFRASTRUCTURE CYBER SECURITY &amp; PENETRATION TESTING</h5>
                     <p>Oculus conduct penetration tests on IT infrastructure and offer consultancy in cyber security.</p>
 
-                    <h5>COMMUNICATIONS PENETRATION TESTING</h5>
+                    <h5 class="subheading">COMMUNICATIONS PENETRATION TESTING</h5>
                     <p>Oculus conduct penetration tests on communications infrastructure and can provide clients with AES 256 encrypted communication systems to supplement any recommendations made.</p>
 
-                    <h5>PHYSICAL SECURITY (COVERT &amp; OVERT)</h5>
+                    <h5 class="subheading">PHYSICAL SECURITY (COVERT &amp; OVERT)</h5>
                     <p>Certain clients who are handling or have access to highly sensitive information may be advised by Oculus to retain some form of physical security provided by Oculus. This may include close protection, access control, CCTV installation and monitoring, rapid response, high risk witness protection, surveillance and counter-surveillance and personal/family security awareness training.</p>
 
                     <p>The above can be offered as a complete holistic package for any client who feels they are being or are at risk of being compromised both technically and physically.</p>

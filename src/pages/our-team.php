@@ -16,7 +16,7 @@
       <div class="logo"></div>
     </div>
     <div class="row column text-center">
-      <h1 id="title" class="loadanimation">Board of Directors</h1>
+      <h1 id="title" class="loadanimation">Our team</h1>
     </div>
 <br>
 
@@ -28,9 +28,7 @@
   <div class="columns small-12 medium-8 small-centered">
     <article>
       <header>
-        <h2>Steven Kay QC</h2>
-        <h3>chairman</h3>
-        <h3>director</h3>
+        <h2>Steven Kay QC | chairman | Director</h3>
         <hr>
       </header>
         <p class="exc">
@@ -46,9 +44,7 @@
 
     <article>
       <header>
-        <h2>James Chalmer</h2>
-        <h3>Chief Executive Officer</h3>
-        <h3>Director</h3>
+        <h2>James Chalmer | Chief Executive Officer | Director</h3>
         <hr>
       </header>
         <p>
@@ -76,9 +72,7 @@
 
     <article>
       <header>
-        <h2>Yousef Al-Majali</h2>
-        <h3>Chief Operating Officer</h3>
-        <h3>Director</h3>
+        <h2>Yousef Al-Majali | Chief Operating Officer | Director</h3>
         <hr>
       </header>
         <p>
@@ -103,43 +97,41 @@
 
     <article>
       <header>
-        <h2>David Tinsley</h2>
-        <h3>Director</h3>
+        <h2>David Tinsley | Director</h3>
         <hr>
       </header>
         <p>
-          David Tinsley is a co-founder and Director of Oculus and is founder and a Director of 5 Stones Intelligence (5Si – www.5stonesintelligence.com) and serves as the Chief Executive Officer of 5Si, a strategic partner of Oculus which holds a $624mn contract with the United States government for asset forfeiture and asset recovery services. David has a BSc and MSc in Criminal Justice and has completed his post graduate studies at Wharton Business School of the University of Pennsylvania.
+        David Tinsley is a co-founder and Director of Oculus and is founder and a Director of 5 Stones intelligence (5Si – www.5Stonesintelligence.com) and serves as the Chief Executive Officer of 5Si, a strategic partner of Oculus which holds a $624mn contract with the United States government for asset forfeiture and asset recovery services. 5Si is a recognised world leader in financial investigations. David has a BSc and MSc in Criminal Justice and has completed his post graduate studies at Wharton Business School of the University of Pennsylvania.
         </p>
         <p>
-          David is a retired United States Drug Enforcement Administration (DEA) Supervisory Special Agent with a total of 32 years combined Law Enforcement and Intelligence experience. Over 20 of those years were spent as a DEA Supervisory Special Agent and DEA Special Agent based in Miami, Florida. David was responsible for the development, management, and execution of financial investigations, undercover money laundering investigations and related enforcement operations. He also conducted covert and overt investigative and intelligence operations on behalf of the DEA, the Central Intelligence Agency (CIA) and other elements of the US Intelligence Community.
+    David is a retired United States Drug Enforcement Administration (DEA) Supervisory Special Agent with a total of 32 years combined Law Enforcement and Intelligence experience. Over 20 of those years were spent as a DEA Supervisory Special Agent and DEA Special Agent based in Miami, Florida. David was responsible for the development, management, and execution of financial investigations, undercover money laundering investigations and related enforcement operations. He also conducted covert and overt investigative and intelligence operations on behalf of the DEA, the Central Intelligence Agency (CIA) and other elements of the US Intelligence Community.
+        <p>
+         David was the original architect and manager of 12 Attorney General Exempted Operations (AGEO) and Financial Undercover Investigations. He was the lead DEA Case Agent for undercover money laundering SARC/AGEO operations, which extended to the 10 largest US cities and 15 countries internationally. He has travelled extensively throughout the United States, Mexico, Central / South America, and Europe providing leadership and direction for many of the DEA’s most successful and landmark operations. During this phase of his career, David perfected unique skill-sets with regard to intelligence collection, financial intelligence, money laundering, international business-banking acumen and developed an extraordinary global supply chain.
         </p>
         <p>
-          David was the original architect and manager of 12 Attorney General Exempted Operations (AGEO) and Financial Undercover Investigations. He was the lead DEA Case Agent for undercover money laundering SARC/AGEO operations, which extended to the 10 largest US cities and 15 countries internationally. He has travelled extensively throughout the United States, Mexico, Central / South America, and Europe providing leadership and direction for many of the DEA’s most successful and landmark operations. During this phase of his career, David perfected unique skill-sets with regard to intelligence collection, financial intelligence, money laundering, international business-banking acumen and developed an extraordinary global supply chain.
-        </p>
-        <p>
-          David managed the largest and one of the most successful DEA Enforcement Groups in the history of the agency, which was recognised for outstanding performance and consistently received the DEA’s highest award for group accomplishment every year. In addition, David served as the DEA-Miami Principal point of contact for Foreign Liaison Operational Law Enforcement Directors for the Caribbean, Central and South America, Europe, the Middle East and Israel. David was selected to lead joint DEA/CIA financial intelligence teams that targeted global clandestine networks at the highest echelon of narco-traffickers, money launderers and terrorist organisations. David managed and coordinated global investigations that were sanctioned at the highest levels of the US government.
+    David managed the largest and one of the most successful DEA Enforcement Groups in the history of the agency, which was recognised for outstanding performance and consistently received the DEA’s highest award for group accomplishment every year. In addition, David served as the DEA-Miami Principal point of contact for Foreign Liaison Operational Law Enforcement Directors for the Caribbean, Central and South America, Europe, the Middle East and Israel. David was selected to lead joint DEA/CIA financial intelligence teams that targeted global clandestine networks at the highest echelon of narco-traffickers, money launderers and terrorist organisations. David managed and coordinated global investigations that were sanctioned at the highest levels of the US government.
         </p>
         <p>
           David is a thought leader regarding emerging financial threats and trends, as well as a leading subject matter expert concerning undercover money laundering operations, international banking investigations, clandestine payment systems and intelligence collection.
         </p>
         <p>
-          He is a pioneer in the Anti-Money Laundering (AML) arena, designing one of the first governmental and financial industry threat assessment programs and has served as an instructor to Special Agents, Case Officers and Intelligence Analysts in the US, UK, Continental Europe and South America. David also developed AML Programs for the DEA, FBI, IRS, ICE, CIA, and the United States Attorney’s School of Advocacy. During his tenure he authored the original financial threat assessment for the DEA concerning the blended threat of emerging radical terrorist groups, drug cartels and black market payment systems and their threat to the US banking and finance communities. He is highly capable in the identification and neutralization of emerging financial threats and possesses extensive expertise in BSA/AML/OFAC, PATRIOT Act and Compliance US GAAP analysis.
+            He is a pioneer in the Anti-Money Laundering (AML) arena, designing one of the first governmental and financial industry threat assessment programs and has served as an instructor to Special Agents, Case Officers and Intelligence Analysts in the US, UK, Continental Europe and South America. David also developed AML Programs for the DEA, FBI, IRS, ICE, CIA, and the United States Attorney’s School of Advocacy. During his tenure he authored the original financial threat assessment for the DEA concerning the blended threat of emerging radical terrorist groups, drug cartels and black market payment systems and their threat to the US banking and finance communities. He is highly capable in the identification and neutralization of emerging financial threats and possesses extensive expertise in BSA/AML/OFAC, PATRIOT Act and Compliance US GAAP analysis.
+
         </p>
         <p>
-          David has testified before the US Congress and Senate Sub-Committees regarding money laundering issues, international currencies and intelligence matters. He represented the DEA at the 1997, World Chamber of Commerce for Gold Manufacturers and Distributors in Rome, Italy, regarding financial threats, international money laundering and the black market peso exchange.
+         David has testified before the US Congress and Senate Sub-Committees regarding money laundering issues, international currencies and intelligence matters. He represented the DEA at the 1997, World Chamber of Commerce for Gold Manufacturers and Distributors in Rome, Italy, regarding financial threats, international money laundering and the black market peso exchange.
         </p>
         <p>
-          While serving with the DEA, David received the DEA’s highest award – The Administrator’s Award of Honour for Investigations conducted on seven different occasions. He has attended over two hundred specialised training schools in Special Operations, Financial Investigations, Intelligence Collection, Communications Interceptions, Voice and Data Security, Advanced Internet Investigations, Internet Security and Interception, Methodologies for the Collection of Information and Intelligence, International Finance, International Banking, Management and Leadership and development and recruitment of Human Intelligence Assets (HUMINT).
+         While serving with the DEA, David received the DEA’s highest award – The Administrator’s Award of Honour for Investigations conducted on seven different occasions. He has attended over two hundred specialised training schools in Special Operations, Financial Investigations, Intelligence Collection, Communications Interceptions, Voice and Data Security, Advanced Internet Investigations, Internet Security and Interception, Methodologies for the Collection of Information and Intelligence, International Finance, International Banking, Management and Leadership and development and recruitment of Human Intelligence Assets (HUMINT).
         </p>
         <p>
-          David’s significant law enforcement and intelligence community experience, international HUMINT network and significant operational supply chain combined with his market leading expertise on leveraging government award payments brings to Oculus a powerful support structure and strengthens the strategic partnership between Oculus and 5Si at board level.
+         David’s significant law enforcement and intelligence community experience, international HUMINT network and significant operational supply chain combined with his market leading expertise on leveraging government award payments brings to Oculus a powerful support structure and strengthens the strategic partnership between Oculus and 5Si at board level.
         </p>
     </article>
 
     <article>
       <header>
-        <h2>Michael Davies</h2>
-        <h3>Director</h3>
+        <h2>Michael Davies | Director</h3>
         <hr>
       </header>
         <p>
@@ -161,8 +153,7 @@
 
     <article>
       <header>
-        <h2>Richard Tickle</h2>
-        <h3>Director</h3>
+        <h2>Richard Tickle | Director</h3>
         <hr>
       </header>
         <p>
@@ -184,8 +175,7 @@
 
     <article>
       <header>
-        <h2>Alastair Kight</h2>
-        <h3>Director</h3>
+        <h2>Alastair Kight | Director</h3>
         <hr>
       </header>
         <p>
