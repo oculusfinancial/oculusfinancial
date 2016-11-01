@@ -101,6 +101,15 @@ body {
     background: #fff;
 }
 
+// TEMPORARY (!) FIX FOR THE COLUMN BREAKS
+
+.medium-uncentered, .medium-uncentered:last-child:not(:first-child){
+  float:left;
+  clear:none;
+}
+
+
+
 //colour classes
 .action{color:$action;}
 
