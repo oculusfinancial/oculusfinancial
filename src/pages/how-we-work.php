@@ -34,7 +34,7 @@
 
   <div class="tabs-content parent-tabs how-we-work-tabs" data-tabs-content="how-we-work-tabs">
 
-    <div class="tabs-panel is-active services-background" id="contracting-with-oculus">
+    <div class="tabs-panel is-active how-contracting-background" id="contracting-with-oculus">
       <div class="tint tint-light"></div>
       <div class="row">
         <div class="columns small-12 medium-8 small-centered">
@@ -49,7 +49,7 @@
 
 
 
-    <div class="tabs-panel services-background" id="methodology">
+    <div class="tabs-panel how-methodology-background" id="methodology">
       <div class="tint tint-light"></div>
       <div class="row">
         <div class="columns small-12 medium-8 small-centered">
@@ -67,7 +67,7 @@
     </div>
 
 
-    <div class="tabs-panel services-background" id="capability">
+    <div class="tabs-panel how-capability-background" id="capability">
       <div class="tint tint-light"></div>
       <div class="row">
         <div class="columns small-12 medium-8 small-centered">

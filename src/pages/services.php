@@ -42,7 +42,7 @@
         <li class="tabs-title"><a href="#panela4">Technical Support Services</a></li>
       </ul>
       <div class="tabs-content sub-tabs-content" data-tabs-content="service-tabs1">
-        <div class="tabs-panel is-active services1-background" id="panela1">
+        <div class="tabs-panel is-active enhanced-background" id="panela1">
           <div class="tint tint-light"></div>
           <div class="row">
             <div class="columns small-12 medium-4 small-centered">
@@ -67,7 +67,7 @@
               </ul>
             </div>
           </div>        </div>
-        <div class="tabs-panel services1-background" id="panela3">
+        <div class="tabs-panel litigation-background" id="panela3">
           <div class="tint tint-light"></div>
           <div class="row">
             <div class="columns small-12 medium-4 small-centered">
@@ -77,7 +77,7 @@
               </ul>
             </div>
           </div>        </div>
-        <div class="tabs-panel services1-background" id="panela4">
+        <div class="tabs-panel technical-background" id="panela4">
           <div class="tint tint-light"></div>
           <div class="row">
             <div class="columns small-12 medium-8 small-centered">
@@ -112,7 +112,7 @@
         <li class="tabs-title"><a href="#panelb4">Technical Support Services</a></li>
       </ul>
       <div class="tabs-content sub-tabs-content" data-tabs-content="service-tabs2">
-        <div class="tabs-panel is-active services2-background" id="panelb1">
+        <div class="tabs-panel is-active enhanced-background" id="panelb1">
           <div class="tint tint-light"></div>
           <div class="row">
             <div class="columns small-12 medium-4 small-centered">
@@ -126,7 +126,7 @@
             </div>
           </div>
         </div>
-        <div class="tabs-panel services2-background" id="panelb2">
+        <div class="tabs-panel services1-background" id="panelb2">
           <div class="tint tint-light"></div>
           <div class="row">
             <div class="columns small-12 medium-4 small-centered">
@@ -137,7 +137,7 @@
             </div>
           </div>
         </div>
-        <div class="tabs-panel services2-background" id="panelb3">
+        <div class="tabs-panel litigation-background" id="panelb3">
           <div class="tint tint-light"></div>
           <div class="row">
             <div class="columns small-12 medium-4 small-centered">
@@ -150,7 +150,7 @@
             </div>
           </div>
         </div>
-        <div class="tabs-panel services2-background" id="panelb4">
+        <div class="tabs-panel technical-background" id="panelb4">
           <div class="tint tint-light"></div>
           <div class="row">
             <div class="columns small-12 medium-8 small-centered">
@@ -187,7 +187,7 @@
               <li class="tabs-title"><a href="#panelc4">Technical Support Services</a></li>
             </ul>
             <div class="tabs-content sub-tabs-content" data-tabs-content="service-tabs3">
-              <div class="tabs-panel is-active services3-background" id="panelc1">
+              <div class="tabs-panel is-active enhanced-background" id="panelc1">
                 <div class="tint tint-light"></div>
                 <div class="row">
                   <div class="columns small-12 medium-4 small-centered">
@@ -200,7 +200,7 @@
                   </div>
                 </div>
               </div>
-              <div class="tabs-panel services3-background" id="panelc2">
+              <div class="tabs-panel services1-background" id="panelc2">
                 <div class="tint tint-light"></div>
                 <div class="row">
                   <div class="columns small-12 medium-4 small-centered">
@@ -213,7 +213,7 @@
                   </div>
                 </div>
               </div>
-              <div class="tabs-panel services3-background" id="panelc3">
+              <div class="tabs-panel litigation-background" id="panelc3">
                 <div class="tint tint-light"></div>
                 <div class="row">
                   <div class="columns small-12 medium-4 small-centered">
@@ -225,7 +225,7 @@
                   </div>
                 </div>
               </div>
-              <div class="tabs-panel services3-background" id="panelc4">
+              <div class="tabs-panel technical-background" id="panelc4">
                 <div class="tint tint-light"></div>
                 <div class="row">
                   <div class="columns small-12 medium-8 small-centered">

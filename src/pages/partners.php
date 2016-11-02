@@ -76,11 +76,11 @@
           <div class="row column text-center">
             <a href="http://www.providenceitf.com/" class="" target="_blank"><img src="assets/img/partners/providence.png"></a>
           </div>
-          <p>The Providence Group (“Providence”) is a defence company headquartered in the United Kingdom with offices in the Netherlands, South East Asia and the United States. Providence only offers its services to Allied Government, Defence and Law Enforcement Agencies.</p>
+          <p>The Providence Group (“Providence”) is a defence company headquartered in the United Kingdom with offices in the Netherlands, South East Asia, Dutch Antillies and the United States. Providence only offers its services to Allied Government, Defence and Law Enforcement Agencies.</p>
 
           <p>Providence has a global reach that concentrates on providing a comprehensive range of specialist Intelligence and Counter Terrorism consultancy, training and equipment to approved Government, Defence and Law Enforcement Agencies.</p>
 
-          <p>Providence are a commercially contracted Strategic Partner of Oculus Financial Intelligence (“Oculus”), assisting Oculus in the recruitment of its Intelligence Analysts. Providence also supplies Oculus with equipment and training relevant to Oculus’s status as a commercial business such that Oculus is able to remain at the cutting edge of current threats and the technology and techniques used to defeat and exploit them for the service of Oculus’ clients.</p>
+          <p>Providence are a Strategic Partner of Oculus Financial Intelligence (“Oculus”), assisting Oculus in the recruitment of its Intelligence Analysts when required. Providence can also supply Oculus with equipment and training relevant to Oculus’s status as a commercial business such that Oculus is able to remain at the cutting edge of current threats and the technology and techniques used to defeat and exploit them for the service of Oculus’ clients.</p>
 
           <p>In recognition of the importance of the Strategic Partnership between the companies, Michael Davies, a co-founder of Providence who serves as CEO of the company is also a Director of Oculus.</p>
 

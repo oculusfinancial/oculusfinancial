@@ -8,7 +8,7 @@
 </header>
 
 <!-- hero image -->
-<section class="background contact-background hero half-height-hero">
+<section class="background team-background hero half-height-hero">
   <div class="tint tint-light"></div>
 
 
@@ -135,19 +135,16 @@
         <hr>
       </header>
         <p>
-          Michael Davies is a co-founder and Director of Oculus and a co-founder and Director of the Providence Group of companies and serves as the CEO of the Providence Group (Providence – www.providenceitf.com), a strategic partner of Oculus headquartered in the UK, specialising in the supply of intelligence training equipment and consultancy to international government clients and the international intelligence community.
+        Michael Davies is a co-founder and Director of Oculus and a co-founder and Director of the Providence Group of companies and serves as the CEO of the Providence Group (Providence – www.providenceitf.com), a strategic partner of Oculus headquartered in the UK, specialising in the supply of intelligence training equipment and consultancy to international government clients and the international intelligence community.
         </p>
         <p>
-          Following his education Michael went on to join the British Army Corps of Royal Signals as a Subject Matter Expert (SME) in telecommunications in 1997 and during this period Michael covered all strategic and operational covert intelligence gathering disciplines. During his 5 year career in the UK Special Forces, Michael specialised in technical surveillance and completed several operational tours including operations in the Balkan States, Mainland UK, MENA region and elsewhere.
+    Following his education Michael went on to join the British Army Corps of Royal Signals as a Subject Matter Expert (SME) in telecommunications in 1997 and during this period Michael covered all strategic and operational covert intelligence gathering disciplines. During his 5 year career in the UK Special Forces, Michael specialised in technical surveillance and completed several operational tours including operations in the Balkan States, Mainland UK, MENA region and elsewhere.
         </p>
         <p>
-          In 2007 Michael went on to become the Technical Director of a United States Department of Defence counter-insurgency program and assisted in the successful $40mn contract award and delivery for the US government followed by a multi-million dollar contract award and delivery to another US DoD client. Following the completion of the program Michael went on to co-found the Providence Group of companies in 2009.
+         In 2007 Michael went on to become the Technical Director of a United States Department of Defence counter-insurgency program and assisted in the successful $40mn contract award and delivery for the US government followed by a multi-million dollar contract award and delivery to another US DoD client. Following the completion of the program Michael went on to co-found the Providence Group of companies in 2009.
         </p>
         <p>
-          Michael has been a significant driving force behind the growth of the Providence from its inception into a multi-million pound global business that is recognised as a world leader in covert intelligence and counter terrorism product lines, consultancy and training. Michael’s ability to constantly recognise, adopt and in many cases develop emerging technologies and techniques ahead of the market has enabled Providence to achieve success in a significantly difficult market to occupy for any private company.
-        </p>
-        <p>
-          Michael’s significant operational supply chain combined with his market leading expertise on the latest threats, techniques and technologies for commercial exploitation by Oculus enable Oculus to ensure that it is at the forefront of expertise and capability for the service of our clients.
+         Michael has been a significant driving force behind the growth of the Providence from its inception into a multi-million pound global business that is recognised as a world leader in covert intelligence and counter terrorism product lines, consultancy and training. Michael’s ability to constantly recognise, adopt and in many cases develop emerging technologies and techniques ahead of the market has enabled Providence to achieve success in a significantly difficult market to occupy for any private company.
         </p>
     </article>
 
