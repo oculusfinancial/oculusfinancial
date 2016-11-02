@@ -27,20 +27,20 @@
 
     <div class="row text-center">
         <div class="columns small-12 medium-4 small-centered medium-uncentered">
-            <h6>Telephone&nbsp;<i class="fa fa-phone" aria-hidden="true"></i></h6>
+            <h6><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;Telephone</h6>
             <p>+44 (0)207 355 7793</p>
             <br>
         </div>
 
         <div class="columns small-12 medium-4 small-centered medium-uncentered">
-            <h6>address&nbsp;<i class="fa fa-map-o" aria-hidden="true"></i></h6>
+            <h6><i class="fa fa-map-o" aria-hidden="true"></i>&nbsp;address</h6>
             <p>25 Park Lane<br>London, W1K 1RA</p>
             <br>
             <br>
         </div>
 
         <div class="columns small-12 medium-4 small-centered medium-uncentered">
-            <h6>Email&nbsp;<i class="fa fa-envelope-o" aria-hidden="true"></i></h6>
+            <h6><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;Email</h6>
             <p><a href="mailto:enquiries@oculus.financial">enquiries@oculus.financial</a></p>
             <br>
         </div>
