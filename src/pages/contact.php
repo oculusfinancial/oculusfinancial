@@ -25,6 +25,7 @@
 <!-- page content if there is any. -->
 <section id="content">
 
+<div class="contact-details-row">
     <div class="row text-center">
         <div class="columns small-12 medium-4 small-centered medium-uncentered">
             <h6><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;Telephone</h6>
@@ -45,6 +46,8 @@
             <br>
         </div>
     </div>
+
+</div>
 
 <div>
 <iframe width='100%' height="500px" frameBorder='0' src='https://a.tiles.mapbox.com/v4/lu777.pp8f1a4o/zoompan.html?access_token=pk.eyJ1IjoibHU3NzciLCJhIjoiYmQzYzljNDI2Y2JiN2IwMzEyNzdhZWEwMjJhMGEwZmQifQ.JqLM34r8rYoXL4jQQe4Vcg'></iframe>

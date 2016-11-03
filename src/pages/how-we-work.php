@@ -55,12 +55,11 @@
         <div class="columns small-12 medium-8 small-centered">
             <h5 class="subheading">Methodology</h5>
             <p>Oculus ensures that all its methods of intelligence gathering are legally admissible given the context of the clients’ intentions and do not compromise the outcome or utility to the client of our work. Oculus uses various combinations of the following intelligence gathering disciplines:</p>
-			<br>
-			<ul>
-				<li>Human Intelligence (HUMINT): Intelligence gathered by means of interpersonal contact by operators working for Oculus or contracted by Oculus.</li>
-				<li>Financial Intelligence (FININT): Intelligence gathered about the financial affairs of entities of interest, to understand their nature, capabilities and sources of funds, and predict their intentions.</li>
-				<li>Open Source Intelligence (OSINT): Intelligence gathered from publically available sources.</li>
-				<li>Web Intelligence (WEBINT): A sub-discipline of OSINT, intelligence gathered from the world wide-web.</li>
+			<ul class="triangle-bullets">
+				<li class="bullet-points">Human Intelligence (HUMINT): Intelligence gathered by means of interpersonal contact by operators working for Oculus or contracted by Oculus.</li>
+				<li class="bullet-points">Financial Intelligence (FININT): Intelligence gathered about the financial affairs of entities of interest, to understand their nature, capabilities and sources of funds, and predict their intentions.</li>
+				<li class="bullet-points">Open Source Intelligence (OSINT): Intelligence gathered from publically available sources.</li>
+				<li class="bullet-points">Web Intelligence (WEBINT): A sub-discipline of OSINT, intelligence gathered from the world wide-web.</li>
 			</ul>
         </div>
       </div>
@@ -73,13 +72,13 @@
         <div class="columns small-12 medium-8 small-centered">
             <p>Oculus deploys specialist Intelligence Analysts who hold current security clearance and are at the leading edge of their skill sets. Intelligence Analysts are sourced from the following professional backgrounds:</p>
 			<br>
-			<ul>
-				<li>Security and Intelligence Services Intelligence Analysts</li>
-				<li>Tier One Investment Bank Anti-Money Laundering (AML) Investigators</li>
-				<li>Law Enforcement Investigators</li>
-				<li>Financial Analysts</li>
-				<li>Forensic Accounting</li>
-				<li>Legal Practitioners</li>
+			<ul class="triangle-bullets">
+				<li class="bullet-points">Security and Intelligence Services Intelligence Analysts</li>
+				<li class="bullet-points">Tier One Investment Bank Anti-Money Laundering (AML) Investigators</li>
+				<li class="bullet-points">Law Enforcement Investigators</li>
+				<li class="bullet-points">Financial Analysts</li>
+				<li class="bullet-points">Forensic Accounting</li>
+				<li class="bullet-points">Legal Practitioners</li>
 			</ul>
         </div>
       </div>
