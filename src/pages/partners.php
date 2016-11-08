@@ -13,10 +13,10 @@
 
 
     <div class="row column text-center">
-      <div class="logo"></div>
+      <div class="logo wow fadeIn" data-wow-duration="2s" data-wow-delay="0"></div>
     </div>
     <div class="row column text-center">
-      <h1 id="title" class="loadanimation">Partners</h1>
+      <h1 id="title" class="loadanimation wow fadeIn" data-wow-duration="2s" data-wow-delay="0">Partners</h1>
     </div>
 <br>
 </section>
@@ -25,9 +25,9 @@
 <section id="content">
   <div class="text-center">
     <ul class="tabs" data-tabs id="partners-tabs" >
-      <li class="tabs-title is-active"><a href="#5-stones-intelligence" aria-selected="true">5 Stones Intelligence</a></li>
-      <li class="tabs-title"><a href="#9-bedford-row-international">9 Bedford Row International</a></li>
-      <li class="tabs-title"><a href="#providence">Providence Group</a></li>
+      <li class="tabs-title is-active wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#5-stones-intelligence" aria-selected="true">5 Stones Intelligence</a></li>
+      <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#9-bedford-row-international">9 Bedford Row International</a></li>
+      <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#providence">Providence Group</a></li>
     </ul>
   </div>
 
@@ -37,7 +37,7 @@
     <div class="tabs-panel is-active partners-background" id="5-stones-intelligence">
       <div class="tint tint-light"></div>
       <div class="row">
-        <div class="columns small-12 medium-8 small-centered">
+        <div class="columns small-12 medium-8 small-centered wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5">
           <div class="row column text-center">
             <a href="http://5stonesintelligence.com/" class="" target="_blank"><img src="assets/img/partners/5stones3.png"></a>
           </div>

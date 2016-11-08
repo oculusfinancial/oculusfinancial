@@ -13,10 +13,10 @@
 
 
     <div class="row column text-center">
-      <div class="logo"></div>
+      <div class="logo wow fadeIn" data-wow-duration="2s" data-wow-delay="0"></div>
     </div>
     <div class="row column text-center">
-      <h1 id="title" class="loadanimation">Our team</h1>
+      <h1 id="title" class="loadanimation wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">Our team</h1>
     </div>
 <br>
 
@@ -31,20 +31,20 @@
                 <div id="tabs">
                     <div class="columns small-12 medium-4 small-centered medium-uncentered">
                     <ul class="text-uppercase">
-                        <li><a href="#steven-kay">Steven Kay QC</a></li>
-                        <li><a href="#james-chalmer">James Chalmer</a></li>
-                        <li><a href="#yousef-al-majali">Yousef Al-Majali</a></li>
-                        <li><a href="#david-tinsley">David Tinsley</a></li>
-                        <li><a href="#michael-davies">Michael Davies</a></li>
-                        <li><a href="#richard-tickle">Richard Tickle</a></li>
-                        <li><a href="#alastair-kight">ALASTAIR KIGHT</a></li>
+                        <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s"><a href="#steven-kay">Steven Kay QC</a></li>
+                        <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#james-chalmer">James Chalmer</a></li>
+                        <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s"><a href="#yousef-al-majali">Yousef Al-Majali</a></li>
+                        <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#david-tinsley">David Tinsley</a></li>
+                        <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.8s"><a href="#michael-davies">Michael Davies</a></li>
+                        <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#richard-tickle">Richard Tickle</a></li>
+                        <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"><a href="#alastair-kight">ALASTAIR KIGHT</a></li>
                       </ul>
 
                     </div>
 
                     <div class="columns small-12 medium-8 small-centered medium-uncentered">
 
-                        <div id="summary">
+                        <div id="summary" class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">
 
                             <article>
                               <header>

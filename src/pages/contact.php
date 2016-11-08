@@ -11,12 +11,11 @@
 <section class="background contact-background hero half-height-hero">
   <div class="tint tint-light"></div>
 
-
     <div class="row column text-center">
-      <div class="logo"></div>
+      <div class="logo wow fadeIn" data-wow-duration="2s" data-wow-delay="0"></div>
     </div>
     <div class="row column text-center">
-      <h1 id="title" class="loadanimation">Contact Oculus</h1>
+      <h1 id="title" class="loadanimation wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">Contact Oculus</h1>
     </div>
 <br>
 
@@ -27,20 +26,20 @@
 
 <div class="contact-details-row">
     <div class="row text-center">
-        <div class="columns small-12 medium-4 small-centered medium-uncentered">
+        <div class="columns small-12 medium-4 small-centered medium-uncentered wow fadeIn" data-wow-duration="2s" data-wow-delay="0.3s">
             <h6><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;Telephone</h6>
             <p>+44 (0)207 355 7793</p>
             <br>
         </div>
 
-        <div class="columns small-12 medium-4 small-centered medium-uncentered">
+        <div class="columns small-12 medium-4 small-centered medium-uncentered wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">
             <h6><i class="fa fa-map-o" aria-hidden="true"></i>&nbsp;address</h6>
             <p>25 Park Lane<br>London, W1K 1RA</p>
             <br>
             <br>
         </div>
 
-        <div class="columns small-12 medium-4 small-centered medium-uncentered">
+        <div class="columns small-12 medium-4 small-centered medium-uncentered wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s">
             <h6><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;Email</h6>
             <p><a href="mailto:enquiries@oculus.financial">enquiries@oculus.financial</a></p>
             <br>

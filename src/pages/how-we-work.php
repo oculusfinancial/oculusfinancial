@@ -13,10 +13,10 @@
 
 
     <div class="row column text-center">
-      <div class="logo"></div>
+      <div class="logo wow fadeIn" data-wow-duration="2s" data-wow-delay="0"></div>
     </div>
     <div class="row column text-center">
-      <h1 id="title" class="loadanimation">how we work</h1>
+      <h1 id="title" class="loadanimation wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">how we work</h1>
     </div>
 <br>
 </section>
@@ -25,9 +25,9 @@
 <section id="content">
   <div class="text-center">
     <ul class="tabs" data-tabs id="how-we-work-tabs" >
-      <li class="tabs-title is-active"><a href="#contracting-with-oculus" aria-selected="true">Contracting With Oculus</a></li>
-      <li class="tabs-title"><a href="#methodology">Methodology</a></li>
-      <li class="tabs-title"><a href="#capability">Capability</a></li>
+      <li class="tabs-title is-active wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#contracting-with-oculus" aria-selected="true">Contracting With Oculus</a></li>
+      <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#methodology">Methodology</a></li>
+      <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#capability">Capability</a></li>
     </ul>
   </div>
 
@@ -37,7 +37,7 @@
     <div class="tabs-panel is-active how-contracting-background" id="contracting-with-oculus">
       <div class="tint tint-light"></div>
       <div class="row">
-        <div class="columns small-12 medium-8 small-centered">
+        <div class="columns small-12 medium-8 small-centered  wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">
             <h5 class="subheading">Project Specific Services</h5>
 	         <p>Oculus evaluates projects for clients on a case by case basis. Clients are quoted costs based upon the forecasted workload. This may be of use if a client has a specific objective in mind.</p>
 

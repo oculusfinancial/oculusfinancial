@@ -111,7 +111,9 @@ body {
 .text-uppercase {
     text-transform: uppercase;
 }
-
+.title-bar {
+    background-color: $oc-grey-dark;
+}
 
 
 //colour classes
@@ -313,7 +315,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 //call-to-action-bar
 #call-to-action{
   background-color: $call-to-action-bg;
-  border-top: solid 1px #efefef;
+  // border-top: solid 1px #efefef;
   padding:2rem 0;
   position:absolute;
   bottom:0;
@@ -361,6 +363,23 @@ ul.tabs {
 .sub-tabs-content > .tabs-panel {padding-bottom:12rem; min-height: 27rem; padding-top:3rem;}
 .how-we-work-tabs > .tabs-panel {padding:1rem; padding-bottom:7rem; min-height: 20rem;}
 
+@media only screen and (max-width: 40em) {
+
+    .how-we-work-tabs > .tabs-panel, .sub-tabs-content > .tabs-panel {
+        padding-bottom:20rem;
+    }
+    .ocbutton {
+        margin-top:30px;
+    }
+    .full-height-hero {
+        padding-bottom: 10rem;
+    }
+    ul.tabs li {
+        width: 100%;
+    }
+ }
+
+
 
 ul.sub-tabs{
   background-color: $sub-tabs-bg-colour;
@@ -370,6 +389,8 @@ ul.sub-tabs{
 
 .tabs-panel{background-size: cover;}
 // #panelh1{background-image: url(../img/bw/hero-bg-2.png);}
+
+
 
 // prevent flash of unstyled content for responsive nav
 .no-js {
@@ -492,6 +513,13 @@ margin-bottom:50px;
 
 
 // tabs-title
+
+// .tabs-content {
+//     text-shadow: 0px 0px 2px rgba(255,255,255,0.6);
+// }
+// .text-shadow-light {
+//     text-shadow: 0px 0px 2px white;
+// }
 
 #tabs {
     ul {

@@ -13,10 +13,10 @@
 
 
     <div class="row column text-center">
-      <div class="logo"></div>
+      <div class="logo wow" data-wow-duration="2s" data-wow-delay="0"></div>
     </div>
     <div class="row column text-center">
-      <h1 id="title" class="loadanimation">our services</h1>
+      <h1 id="title" class="loadanimation wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">our services</h1>
     </div>
 <br>
 </section>
@@ -25,9 +25,9 @@
 <section id="content" >
   <div class="text-center">
     <ul class="tabs" data-tabs id="service-tabs" >
-      <li class="tabs-title is-active"><a href="#financial-investors" aria-selected="true">Financial Investors</a></li>
-      <li class="tabs-title"><a href="#corporate-clients">Corporate Clients</a></li>
-      <li class="tabs-title"><a href="#private-clients">Private Clients</a></li>
+      <li class="tabs-title is-active wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#financial-investors" aria-selected="true">Financial Investors</a></li>
+      <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#corporate-clients">Corporate Clients</a></li>
+      <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#private-clients">Private Clients</a></li>
     </ul>
   </div>
 
@@ -36,16 +36,16 @@
     <div class="tabs-panel is-active" id="financial-investors">
 
       <ul class="tabs sub-tabs" data-tabs id="service-tabs1">
-        <li class="tabs-title is-active"><a href="#panela1" aria-selected="true">Enhanced Due Diligence &amp; Investigations</a></li>
-        <li class="tabs-title"><a href="#panela2">Asset Investigation, Tracing &amp; Recovery</a></li>
-        <li class="tabs-title"><a href="#panela3">Litigation Support</a></li>
-        <li class="tabs-title"><a href="#panela4">Technical Support Services</a></li>
+        <li class="tabs-title is-active  wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#panela1" aria-selected="true">Enhanced Due Diligence &amp; Investigations</a></li>
+        <li class="tabs-title  wow fadeIn" data-wow-duration="2s" data-wow-delay="1.1s"><a href="#panela2">Asset Investigation, Tracing &amp; Recovery</a></li>
+        <li class="tabs-title  wow fadeIn" data-wow-duration="2s" data-wow-delay="1.3s"><a href="#panela3">Litigation Support</a></li>
+        <li class="tabs-title  wow fadeIn" data-wow-duration="2s" data-wow-delay="1.5s"><a href="#panela4">Technical Support Services</a></li>
       </ul>
       <div class="tabs-content sub-tabs-content" data-tabs-content="service-tabs1">
         <div class="tabs-panel is-active enhanced-background" id="panela1">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="columns small-12 medium-4 small-centered">
+            <div class="columns small-12 medium-4 small-centered  wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">
                 <ul>
     				<li class="bullet-points">Hedge Fund Equity Long/Short Investigations</li>
     				<li class="bullet-points">Private Equity Asset Diligence</li>
