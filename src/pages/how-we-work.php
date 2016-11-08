@@ -25,9 +25,10 @@
 <section id="content">
   <div class="text-center">
     <ul class="tabs" data-tabs id="how-we-work-tabs" >
-      <li class="tabs-title is-active wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#contracting-with-oculus" aria-selected="true">Contracting With Oculus</a></li>
-      <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#methodology">Methodology</a></li>
-      <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#capability">Capability</a></li>
+        <li class="tabs-title is-active wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#methodology">Methodology</a></li>
+        <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#capability">Capability</a></li>
+      <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#contracting-with-oculus" aria-selected="true">Contracting With Oculus</a></li>
+
     </ul>
   </div>
 

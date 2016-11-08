@@ -82,8 +82,15 @@
           <div class="row">
             <div class="wow fadeIn columns small-12 medium-8 small-centered">
               <p>Oculus can offer certain technical services for the benefit of our clients including but not limited to:</p>
+              <ul>
+                <li class="bullet-points"><strong>Technical Surveillance Counter Measures (TSCM) Sweeping Services</strong><br><br>Clients, for peace of mind, may wish to have their premises regularly inspected to ensure no unwanted audio/visual devices are in place. This service can be conducted on demand or on a retained basis.</li>
+                <li class="bullet-points"><strong>IT Infrastructure Cyber Security &amp; Penetration Testing</strong><br><br>Oculus conduct penetration tests on IT infrastructure and offer consultancy in cyber security.</li>
+                    <li class="bullet-points"><strong>Communications Penetration Testing</strong><br><br>Oculus conduct penetration tests on communications infrastructure and can provide clients with AES 256 encrypted communication systems to supplement any recommendations made.</li>
+                        <li class="bullet-points"><strong>Physical Security (Covert &amp; Overt)</strong><br><br>Certain clients who are handling or have access to highly sensitive information may be advised by Oculus to retain some form of physical security provided by Oculus. This may include close protection, access control, CCTV installation and monitoring, rapid response, high risk witness protection, surveillance and counter-surveillance and personal/family security awareness training.</li>
+              </ul>
 
-    					<h5>TECHNICAL SURVEILLANCE COUNTER MEASURES (TSCM) SWEEPING SERVICES</h5>
+              <p>The above can be offered as a complete holistic package for any client who feels they are being or are at risk of being compromised both technically and physically.</p>
+    					<!-- <h5>TECHNICAL SURVEILLANCE COUNTER MEASURES (TSCM) SWEEPING SERVICES</h5>
     					<p>Clients, for peace of mind, may wish to have their premises regularly inspected to ensure no unwanted audio/visual devices are in place. This service can be conducted on demand or on a retained basis.</p>
 
     					<h5>IT INFRASTRUCTURE CYBER SECURITY & PENETRATION TESTING</h5>
@@ -95,7 +102,7 @@
     					<h5>PHYSICAL SECURITY (COVERT &amp; OVERT)</h5>
     					<p>Certain clients who are handling or have access to highly sensitive information may be advised by Oculus to retain some form of physical security provided by Oculus. This may include close protection, access control, CCTV installation and monitoring, rapid response, high risk witness protection, surveillance and counter-surveillance and personal/family security awareness training.</p>
 
-    					<p>The above can be offered as a complete holistic package for any client who feels they are being or are at risk of being compromised both technically and physically.</p>
+    					<p>The above can be offered as a complete holistic package for any client who feels they are being or are at risk of being compromised both technically and physically.</p> -->
             </div>
             </div>
       </div>
@@ -156,7 +163,14 @@
             <div class="wow fadeIn columns small-12 medium-8 small-centered">
               <p>Oculus can offer certain technical services for the benefit of our clients including but not limited to:</p>
 
-              <h5>TECHNICAL SURVEILLANCE COUNTER MEASURES (TSCM) SWEEPING SERVICES</h5>
+              <ul>
+                <li class="bullet-points"><strong>Technical Surveillance Counter Measures (TSCM) Sweeping Services</strong><br><br>Clients, for peace of mind, may wish to have their premises regularly inspected to ensure no unwanted audio/visual devices are in place. This service can be conducted on demand or on a retained basis.</li>
+                <li class="bullet-points"><strong>IT Infrastructure Cyber Security &amp; Penetration Testing</strong><br><br>Oculus conduct penetration tests on IT infrastructure and offer consultancy in cyber security.</li>
+                    <li class="bullet-points"><strong>Communications Penetration Testing</strong><br><br>Oculus conduct penetration tests on communications infrastructure and can provide clients with AES 256 encrypted communication systems to supplement any recommendations made.</li>
+                        <li class="bullet-points"><strong>Physical Security (Covert &amp; Overt)</strong><br><br>Certain clients who are handling or have access to highly sensitive information may be advised by Oculus to retain some form of physical security provided by Oculus. This may include close protection, access control, CCTV installation and monitoring, rapid response, high risk witness protection, surveillance and counter-surveillance and personal/family security awareness training.</li>
+              </ul>
+
+              <!-- <h5>TECHNICAL SURVEILLANCE COUNTER MEASURES (TSCM) SWEEPING SERVICES</h5>
               <p>Clients, for peace of mind, may wish to have their premises regularly inspected to ensure no unwanted audio/visual devices are in place. This service can be conducted on demand or on a retained basis.</p>
 
               <h5>IT INFRASTRUCTURE CYBER SECURITY &amp; PENETRATION TESTING</h5>
@@ -166,7 +180,7 @@
               <p>Oculus conduct penetration tests on communications infrastructure and can provide clients with AES 256 encrypted communication systems to supplement any recommendations made.</p>
 
               <h5>PHYSICAL SECURITY (COVERT &amp; OVERT)</h5>
-              <p>Certain clients who are handling or have access to highly sensitive information may be advised by Oculus to retain some form of physical security provided by Oculus. This may include close protection, access control, CCTV installation and monitoring, rapid response, high risk witness protection, surveillance and counter-surveillance and personal/family security awareness training.</p>
+              <p>Certain clients who are handling or have access to highly sensitive information may be advised by Oculus to retain some form of physical security provided by Oculus. This may include close protection, access control, CCTV installation and monitoring, rapid response, high risk witness protection, surveillance and counter-surveillance and personal/family security awareness training.</p> -->
               <p>The above can be offered as a complete holistic package for any client who feels they are being or are at risk of being compromised both technically and physically.</p>
             </div>
             </div>
@@ -230,8 +244,13 @@
                 <div class="row">
                   <div class="wow fadeIn columns small-12 medium-8 small-centered">
                     <p>Oculus can offer certain technical services for the benefit of our clients including but not limited to:</p>
-
-                    <h5 class="subheading">TECHNICAL SURVEILLANCE COUNTER MEASURES (TSCM) SWEEPING SERVICES</h5>
+                    <ul>
+                      <li class="bullet-points"><strong>Technical Surveillance Counter Measures (TSCM) Sweeping Services</strong><br><br>Clients, for peace of mind, may wish to have their premises regularly inspected to ensure no unwanted audio/visual devices are in place. This service can be conducted on demand or on a retained basis.</li>
+                      <li class="bullet-points"><strong>IT Infrastructure Cyber Security &amp; Penetration Testing</strong><br><br>Oculus conduct penetration tests on IT infrastructure and offer consultancy in cyber security.</li>
+                          <li class="bullet-points"><strong>Communications Penetration Testing</strong><br><br>Oculus conduct penetration tests on communications infrastructure and can provide clients with AES 256 encrypted communication systems to supplement any recommendations made.</li>
+                              <li class="bullet-points"><strong>Physical Security (Covert &amp; Overt)</strong><br><br>Certain clients who are handling or have access to highly sensitive information may be advised by Oculus to retain some form of physical security provided by Oculus. This may include close protection, access control, CCTV installation and monitoring, rapid response, high risk witness protection, surveillance and counter-surveillance and personal/family security awareness training.</li>
+                    </ul>
+                    <!-- <h5 class="subheading">TECHNICAL SURVEILLANCE COUNTER MEASURES (TSCM) SWEEPING SERVICES</h5>
                     <p>Clients, for peace of mind, may wish to have their premises regularly inspected to ensure no unwanted audio/visual devices are in place. This service can be conducted on demand or on a retained basis.</p>
 
                     <h5 class="subheading">IT INFRASTRUCTURE CYBER SECURITY &amp; PENETRATION TESTING</h5>
@@ -241,7 +260,7 @@
                     <p>Oculus conduct penetration tests on communications infrastructure and can provide clients with AES 256 encrypted communication systems to supplement any recommendations made.</p>
 
                     <h5 class="subheading">PHYSICAL SECURITY (COVERT &amp; OVERT)</h5>
-                    <p>Certain clients who are handling or have access to highly sensitive information may be advised by Oculus to retain some form of physical security provided by Oculus. This may include close protection, access control, CCTV installation and monitoring, rapid response, high risk witness protection, surveillance and counter-surveillance and personal/family security awareness training.</p>
+                    <p>Certain clients who are handling or have access to highly sensitive information may be advised by Oculus to retain some form of physical security provided by Oculus. This may include close protection, access control, CCTV installation and monitoring, rapid response, high risk witness protection, surveillance and counter-surveillance and personal/family security awareness training.</p> -->
 
                     <p>The above can be offered as a complete holistic package for any client who feels they are being or are at risk of being compromised both technically and physically.</p>
                   </div>
