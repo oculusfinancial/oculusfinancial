@@ -1,0 +1,8 @@
+#AuthType Basic
+#AuthName "Password Protected Area"
+#AuthUserFile /home/sites/1a/a/a7d0ef4e83/.htpasswd
+#Require valid-user
+
+<Limit GET POST>
+#require valid-user
+</Limit>
