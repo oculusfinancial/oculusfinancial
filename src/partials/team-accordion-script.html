@@ -8,15 +8,10 @@ $( function() {
             activate: function(event, ui){
                 $.when($( "#summary" ).hide(200)).then(function() {
                     $('html,body').animate({
-                           scrollTop: $("#articles").offset().top -50
+                           scrollTop: $("#articles").offset().top -100
                        }, "slow");
                 });
             },
-            afterLoad: function(event, ui){
-                $('html,body').animate({
-                 scrollTop: $("#articles").offset().top -50
-               }, 1000);
-           },
             show: function(event, ui) {
                 $(ui.panel).show("slow");
             }

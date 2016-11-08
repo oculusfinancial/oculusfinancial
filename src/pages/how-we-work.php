@@ -37,7 +37,7 @@
     <div class="tabs-panel is-active how-contracting-background" id="contracting-with-oculus">
       <div class="tint tint-light"></div>
       <div class="row">
-        <div class="columns small-12 medium-8 small-centered  wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">
+        <div class="wow fadeIn columns small-12 medium-8 small-centered " data-wow-duration="2s" data-wow-delay="0">
             <h5 class="subheading">Project Specific Services</h5>
 	         <p>Oculus evaluates projects for clients on a case by case basis. Clients are quoted costs based upon the forecasted workload. This may be of use if a client has a specific objective in mind.</p>
 
@@ -52,7 +52,7 @@
     <div class="tabs-panel how-methodology-background" id="methodology">
       <div class="tint tint-light"></div>
       <div class="row">
-        <div class="columns small-12 medium-8 small-centered">
+        <div class="wow fadeIn columns small-12 medium-8 small-centered " data-wow-duration="2s" data-wow-delay="0">
             <h5 class="subheading">Methodology</h5>
             <p>Oculus ensures that all its methods of intelligence gathering are legally admissible given the context of the clients’ intentions and do not compromise the outcome or utility to the client of our work. Oculus uses various combinations of the following intelligence gathering disciplines:</p>
 			<ul class="triangle-bullets">
@@ -69,7 +69,7 @@
     <div class="tabs-panel how-capability-background" id="capability">
       <div class="tint tint-light"></div>
       <div class="row">
-        <div class="columns small-12 medium-8 small-centered">
+        <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s" data-wow-delay="0">
             <p>Oculus deploys specialist Intelligence Analysts who hold current security clearance and are at the leading edge of their skill sets. Intelligence Analysts are sourced from the following professional backgrounds:</p>
 			<br>
 			<ul class="triangle-bullets">

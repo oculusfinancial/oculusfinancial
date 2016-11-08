@@ -1,5 +1,9 @@
 @charset 'utf-8';
 
+.wow {
+  visibility: hidden;
+}
+
 @import 'settings';
 @import 'foundation';
 @import 'motion-ui';
