@@ -37,7 +37,7 @@
     <div class="tabs-panel is-active partners-background" id="5-stones-intelligence">
       <div class="tint tint-light"></div>
       <div class="row">
-        <div class="columns small-12 medium-8 small-centered wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5">
+        <div class="columns small-12 medium-8 small-centered wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">
           <div class="row column text-center">
             <a href="http://5stonesintelligence.com/" class="" target="_blank"><img src="assets/img/partners/5stones3.png"></a>
           </div>
@@ -57,7 +57,7 @@
     <div class="tabs-panel bedford-background" id="9-bedford-row-international">
       <div class="tint tint-light"></div>
       <div class="row">
-        <div class="columns small-12 medium-8 small-centered">
+        <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s" data-wow-delay="0">
           <div class="row column text-center">
             <a href="http://9bri.com/" class="" target="_blank"><img src="assets/img/partners/9bri.png"></a>
           </div>
@@ -72,7 +72,7 @@
     <div class="tabs-panel providence-background" id="providence">
       <div class="tint tint-light"></div>
       <div class="row">
-        <div class="columns small-12 medium-8 small-centered">
+        <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s" data-wow-delay="0">
           <div class="row column text-center">
             <a href="http://www.providenceitf.com/" class="" target="_blank"><img src="assets/img/partners/providence.png"></a>
           </div>

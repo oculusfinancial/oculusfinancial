@@ -45,7 +45,7 @@
         <div class="tabs-panel is-active enhanced-background" id="panela1">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="columns small-12 medium-4 small-centered  wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">
+            <div class="wow fadeIn columns small-12 medium-4 small-centered" data-wow-duration="2s" data-wow-delay="0">
                 <ul>
     				<li class="bullet-points">Hedge Fund Equity Long/Short Investigations</li>
     				<li class="bullet-points">Private Equity Asset Diligence</li>
@@ -60,7 +60,7 @@
         <div class="tabs-panel services1-background" id="panela2">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="columns small-12 medium-4 small-centered">
+            <div class="wow fadeIn columns small-12 medium-4 small-centered">
               <ul>
                 <li class="bullet-points">Public Market Fraud and Financial Crimes</li>
                 <li class="bullet-points">Misappropriation of Investor Assets</li>
@@ -70,7 +70,7 @@
         <div class="tabs-panel litigation-background" id="panela3">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="columns small-12 medium-4 small-centered">
+            <div class="wow fadeIn columns small-12 medium-4 small-centered">
               <ul>
                 <li class="bullet-points">FCA/SEC Regulatory Disputes</li>
                 <li class="bullet-points">Investment Protection</li>
@@ -80,7 +80,7 @@
         <div class="tabs-panel technical-background" id="panela4">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="columns small-12 medium-8 small-centered">
+            <div class="wow fadeIn columns small-12 medium-8 small-centered">
               <p>Oculus can offer certain technical services for the benefit of our clients including but not limited to:</p>
 
     					<h5>TECHNICAL SURVEILLANCE COUNTER MEASURES (TSCM) SWEEPING SERVICES</h5>
@@ -115,7 +115,7 @@
         <div class="tabs-panel is-active enhanced-background" id="panelb1">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="columns small-12 medium-4 small-centered">
+            <div class="wow fadeIn columns small-12 medium-4 small-centered">
               <ul>
 								<li class="bullet-points">Merger &amp; Acquisition Targets</li>
 								<li class="bullet-points">Pre Joint Venture Due Diligence</li>
@@ -129,7 +129,7 @@
         <div class="tabs-panel services1-background" id="panelb2">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="columns small-12 medium-4 small-centered">
+            <div class="wow fadeIn columns small-12 medium-4 small-centered">
               <ul>
   							<li class="bullet-points">Unpaid Receivables</li>
   							<li class="bullet-points">Misappropriation of Company Assets</li>
@@ -140,7 +140,7 @@
         <div class="tabs-panel litigation-background" id="panelb3">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="columns small-12 medium-4 small-centered">
+            <div class="wow fadeIn columns small-12 medium-4 small-centered">
                 <ul>
 					<li class="bullet-points">FCA/SEC Regulatory Disputes</li>
 					<li class="bullet-points">Corporate Crisis Management Intelligence Support</li>
@@ -153,7 +153,7 @@
         <div class="tabs-panel technical-background" id="panelb4">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="columns small-12 medium-8 small-centered">
+            <div class="wow fadeIn columns small-12 medium-8 small-centered">
               <p>Oculus can offer certain technical services for the benefit of our clients including but not limited to:</p>
 
               <h5>TECHNICAL SURVEILLANCE COUNTER MEASURES (TSCM) SWEEPING SERVICES</h5>
@@ -190,7 +190,7 @@
               <div class="tabs-panel is-active enhanced-background" id="panelc1">
                 <div class="tint tint-light"></div>
                 <div class="row">
-                  <div class="columns small-12 medium-4 small-centered">
+                  <div class="wow fadeIn columns small-12 medium-4 small-centered">
                     <ul>
 						<li class="bullet-points">Pre-Investment Due Diligence</li>
 						<li class="bullet-points">Prospective Business Relations</li>
@@ -203,7 +203,7 @@
               <div class="tabs-panel services1-background" id="panelc2">
                 <div class="tint tint-light"></div>
                 <div class="row">
-                  <div class="columns small-12 medium-4 small-centered">
+                  <div class="wow fadeIn columns small-12 medium-4 small-centered">
                     <ul>
 						<li class="bullet-points">Divorce Asset Investigations</li>
 						<li class="bullet-points">Unpaid Debts</li>
@@ -216,7 +216,7 @@
               <div class="tabs-panel litigation-background" id="panelc3">
                 <div class="tint tint-light"></div>
                 <div class="row">
-                  <div class="columns small-12 medium-4 small-centered">
+                  <div class="wow fadeIn columns small-12 medium-4 small-centered">
                     <ul>
 						<li class="bullet-points">Divorce Disputes</li>
 						<li class="bullet-points">Crisis Management Intelligence Support</li>
@@ -228,7 +228,7 @@
               <div class="tabs-panel technical-background" id="panelc4">
                 <div class="tint tint-light"></div>
                 <div class="row">
-                  <div class="columns small-12 medium-8 small-centered">
+                  <div class="wow fadeIn columns small-12 medium-8 small-centered">
                     <p>Oculus can offer certain technical services for the benefit of our clients including but not limited to:</p>
 
                     <h5 class="subheading">TECHNICAL SURVEILLANCE COUNTER MEASURES (TSCM) SWEEPING SERVICES</h5>
