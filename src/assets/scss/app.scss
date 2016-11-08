@@ -108,6 +108,10 @@ body {
   clear:none;
 }
 
+.text-uppercase {
+    text-transform: uppercase;
+}
+
 
 
 //colour classes
@@ -484,4 +488,37 @@ margin-bottom:50px;
 
 .contact-details-row a:hover {
     color:#1c3275;
+}
+
+
+// tabs-title
+
+#tabs {
+    ul {
+        margin-top: 40px;
+        margin-left: 0;
+        list-style: none;
+
+        li {
+
+            a {
+                display:block;
+                padding: 10px 20px;
+                background: $oc-dark-tint;
+                color: white;
+                border-bottom: 1px solid white;
+
+            &:hover {
+                background: $oc-blue;
+            }
+            &:focus {
+                outline: none;
+            }
+
+            }
+        }
+    }
+}
+div#summary {
+    margin-bottom: 40px;
 }

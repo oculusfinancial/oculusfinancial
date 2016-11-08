@@ -37,14 +37,14 @@
 
 
     <div class="row column text-center">
-      <div class="logo wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"></div>
+      <div class="logo wow fadeIn" data-wow-duration="2s" data-wow-delay="0"></div>
     </div>
     <div class="row column text-center">
-      <h1 id="title" class="loadanimation wow fadeIn" data-wow-duration="2s" data-wow-delay="0s">About Oculus</h1>
+      <h1 id="title" class="loadanimation wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">About Oculus</h1>
     </div>
 <br>
     <div class="row">
-      <div class="columns small-12 medium-8 small-centered text-center wow fadeIn" data-wow-duration="2s" data-wow-delay="1.5s">
+      <div class="columns small-12 medium-8 small-centered text-center wow fadeIn" data-wow-duration="2s" data-wow-delay="0.8s">
         <p>Oculus is a specialist financial intelligence service provider with a unique team of international experts from careers in Financial Analysis, Forensic Accounting and Auditing, the Security and Intelligence Services, Law Enforcement and Legal Practice.</p>
 
         <p>Oculus conducts investigations to help clients improve investment returns, protect and recover investments and assets, mitigate financial risk and investigate financial crimes.</p>
