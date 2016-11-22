@@ -273,9 +273,9 @@
                                 <hr>
                               </header>
                                 <p>
-                                  Alastair Kight is a co-founder and Director of Oculus and is founder and a Partner at Shirlaws Group, a business advise and fund private enterprise in growing, funding or exiting their businesses.
+                                 Alastair Kight is a co-founder and Director of Oculus. Alastair has founded and sold several businesses since setting out on an entrepreneurial path in the early 1990’s.  His experience in growing and managing private businesses, his partnership in a growing venture capital business and his strong commercial network brings to Oculus significant commercial expertise to help ensure that Oculus offers the best possible quality of service to its clients.
                                 </p>
-                                <p>
+                                <!-- <p>
                                   After leaving Canterbury University in Christchurch, New Zealand in 1986 where he read Law and Business Administration, Alastair joined Money Brokers Harlow Butler (NZ) Ltd. Three years later, he transferred to their London office. He left the City in 1990 set out on an entrepreneurial path, starting and profitably selling three different businesses.
                                 </p>
                                 <p>
@@ -286,7 +286,7 @@
                                 </p>
                                 <p>
                                   Alastair’s experience in growing and managing private businesses and his strong commercial network brings to Oculus significant commercial expertise to help ensure that our business offers the best possible quality of service to our clients.
-                                </p>
+                                </p> -->
                             </article>
                         </div>
 
