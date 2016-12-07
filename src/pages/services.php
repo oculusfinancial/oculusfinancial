@@ -36,9 +36,9 @@
     <div class="tabs-panel is-active" id="financial-investors">
 
       <ul class="tabs sub-tabs" data-tabs id="service-tabs1">
-        <li class="tabs-title is-active  wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#panela1" aria-selected="true">Enhanced Due Diligence &amp; Investigations</a></li>
+        <li class="tabs-title is-active  wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#panela1" aria-selected="true">Enhanced Financial Due Diligence &amp; Investigations</a></li>
         <li class="tabs-title  wow fadeIn" data-wow-duration="2s" data-wow-delay="1.1s"><a href="#panela2">Asset Investigation, Tracing &amp; Recovery</a></li>
-        <li class="tabs-title  wow fadeIn" data-wow-duration="2s" data-wow-delay="1.3s"><a href="#panela3">Litigation Support</a></li>
+        <li class="tabs-title  wow fadeIn" data-wow-duration="2s" data-wow-delay="1.3s"><a href="#panela3">Financially Driven Litigation Support</a></li>
         <li class="tabs-title  wow fadeIn" data-wow-duration="2s" data-wow-delay="1.5s"><a href="#panela4">Technical Support Services</a></li>
       </ul>
       <div class="tabs-content sub-tabs-content" data-tabs-content="service-tabs1">
@@ -67,7 +67,7 @@
               </ul>
             </div>
           </div>        </div>
-        <div class="tabs-panel litigation-background" id="panela3">
+        <div class="tabs-panel litigation-background-fin" id="panela3">
           <div class="tint tint-light"></div>
           <div class="row">
             <div class="wow fadeIn columns small-12 medium-4 small-centered">
@@ -113,9 +113,9 @@
     <div class="tabs-panel" id="corporate-clients">
 
       <ul class="tabs sub-tabs" data-tabs id="service-tabs2">
-        <li class="tabs-title is-active"><a href="#panelb1" aria-selected="true">Enhanced Due Diligence &amp; Investigations</a></li>
+        <li class="tabs-title is-active"><a href="#panelb1" aria-selected="true">Enhanced Financial Due Diligence &amp; Investigations</a></li>
         <li class="tabs-title"><a href="#panelb2">Asset Investigation, Tracing &amp; Recovery</a></li>
-        <li class="tabs-title"><a href="#panelb3">Litigation Support</a></li>
+        <li class="tabs-title"><a href="#panelb3">Financially Driven Litigation Support</a></li>
         <li class="tabs-title"><a href="#panelb4">Technical Support Services</a></li>
       </ul>
       <div class="tabs-content sub-tabs-content" data-tabs-content="service-tabs2">
@@ -195,9 +195,9 @@
 
 
             <ul class="tabs sub-tabs" data-tabs id="service-tabs3">
-              <li class="tabs-title is-active"><a href="#panelc1" aria-selected="true">Enhanced Due Diligence &amp; Investigations</a></li>
+              <li class="tabs-title is-active"><a href="#panelc1" aria-selected="true">Enhanced Financial Due Diligence &amp; Investigations</a></li>
               <li class="tabs-title"><a href="#panelc2">Asset Investigation, Tracing &amp; Recovery</a></li>
-              <li class="tabs-title"><a href="#panelc3">Litigation Support</a></li>
+              <li class="tabs-title"><a href="#panelc3">Financially Driven Litigation Support</a></li>
               <li class="tabs-title"><a href="#panelc4">Technical Support Services</a></li>
             </ul>
             <div class="tabs-content sub-tabs-content" data-tabs-content="service-tabs3">
