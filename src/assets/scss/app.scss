@@ -64,6 +64,7 @@
 
 //colours
 $oc-blue       :#202C59;
+$oc-light-blue :#354993;
 $oc-grey       :#fff;
 $oc-light      :#fff;
 $oc-dark-tint  :#182144;
@@ -76,7 +77,7 @@ $oc-grey-dark  :#060d1e;
 //nav
 $main-nav-bg-colour         : $oc-dark-tint;
 $main-nav-text-colour       : $oc-grey;
-$main-nav-hover-colour      : $oc-light;
+$main-nav-hover-colour      : $oc-light-blue;
 
 //hero
 $tint-colour                : $oc-light-tint;
@@ -342,6 +343,9 @@ footer{
   ul{margin:0;}
   li{list-style: none;}
   a{color:$footer-text-colour;}
+  a:hover {
+      color:$oc-light-blue;
+  }
   h3{color:$footer-heading-colour;}
   p.email{text-transform: lowercase; letter-spacing: 0.1rem;}
 }
