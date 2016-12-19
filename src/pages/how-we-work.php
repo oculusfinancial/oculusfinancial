@@ -24,18 +24,17 @@
 <!-- page content if there is any. -->
 <section id="content">
   <div class="text-center">
-    <ul class="tabs" data-tabs id="how-we-work-tabs" >
+    <ul class="tabs" data-tabs data-deep-link="true" id="how-we-work-tabs">
         <li class="tabs-title is-active wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#methodology">Methodology</a></li>
         <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#capability">Capability</a></li>
-      <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#contracting-with-oculus" aria-selected="true">Contracting With Oculus</a></li>
-
+        <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#contracting">Contracting With Oculus</a></li>
     </ul>
   </div>
 
 
   <div class="tabs-content parent-tabs how-we-work-tabs" data-tabs-content="how-we-work-tabs">
 
-    <div class="tabs-panel is-active how-contracting-background" id="contracting-with-oculus">
+    <div class="tabs-panel is-active how-contracting-background" id="contracting">
       <div class="tint tint-light"></div>
       <div class="row">
         <div class="wow fadeIn columns small-12 medium-8 small-centered " data-wow-duration="2s" data-wow-delay="0">

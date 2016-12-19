@@ -24,8 +24,8 @@
 <!-- page content if there is any. -->
 <section id="content" >
   <div class="text-center">
-    <ul class="tabs" data-tabs id="service-tabs" >
-      <li class="tabs-title is-active wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#financial-investors" aria-selected="true">Financial Investors</a></li>
+    <ul class="tabs" data-tabs data-deep-link="true" id="service-tabs">
+      <li class="tabs-title is-active wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#financial-investors">Financial Investors</a></li>
       <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#corporate-clients">Corporate Clients</a></li>
       <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#private-clients">Private Clients</a></li>
     </ul>
@@ -36,7 +36,7 @@
     <div class="tabs-panel is-active" id="financial-investors">
 
       <ul class="tabs sub-tabs" data-tabs id="service-tabs1">
-        <li class="tabs-title is-active  wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#panela1" aria-selected="true">Enhanced Financial Due Diligence &amp; Investigations</a></li>
+        <li class="tabs-title is-active  wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#panela1">Enhanced Financial Due Diligence &amp; Investigations</a></li>
         <li class="tabs-title  wow fadeIn" data-wow-duration="2s" data-wow-delay="1.1s"><a href="#panela2">Asset Investigation, Tracing &amp; Recovery</a></li>
         <li class="tabs-title  wow fadeIn" data-wow-duration="2s" data-wow-delay="1.3s"><a href="#panela3">Financially Driven Litigation Support</a></li>
         <li class="tabs-title  wow fadeIn" data-wow-duration="2s" data-wow-delay="1.5s"><a href="#panela4">Technical Support Services</a></li>

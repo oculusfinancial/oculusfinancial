@@ -24,7 +24,7 @@
 <!-- page content if there is any. -->
 <section id="content">
   <div class="text-center">
-    <ul class="tabs" data-tabs id="partners-tabs" >
+    <ul class="tabs" data-tabs data-deep-link="true" id="partners-tabs">
       <li class="tabs-title is-active wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#5-stones-intelligence" aria-selected="true">5 Stones Intelligence</a></li>
       <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#9-bedford-row-international">9 Bedford Row International</a></li>
       <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#providence">Providence Group</a></li>
@@ -37,7 +37,7 @@
     <div class="tabs-panel is-active partners-background" id="5-stones-intelligence">
       <div class="tint tint-light"></div>
       <div class="row">
-        <div class="columns small-12 medium-8 small-centered wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">
+        <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s"  data-wow-delay="0.5s">
           <div class="row column text-center">
             <a href="http://5stonesintelligence.com/" class="" target="_blank"><img src="assets/img/partners/5stones3.png"></a>
           </div>
@@ -57,7 +57,7 @@
     <div class="tabs-panel bedford-background" id="9-bedford-row-international">
       <div class="tint tint-light"></div>
       <div class="row">
-        <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s" data-wow-delay="0">
+        <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s">
           <div class="row column text-center">
             <a href="http://9bri.com/" class="" target="_blank"><img src="assets/img/partners/9bri.png"></a>
           </div>
@@ -72,7 +72,7 @@
     <div class="tabs-panel providence-background" id="providence">
       <div class="tint tint-light"></div>
       <div class="row">
-        <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s" data-wow-delay="0">
+        <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s">
           <div class="row column text-center">
             <a href="http://www.providenceitf.com/" class="" target="_blank"><img src="assets/img/partners/providence.png"></a>
           </div>

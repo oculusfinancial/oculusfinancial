@@ -38,6 +38,41 @@ $(function(){
 });
 
 
+// Tabs Hash
+
+function tabDeepLink(selector) {
+    $(selector).each(function() {
+        var $tabs = $(this);
+
+        // match page load anchor
+        var anchor = window.location.hash;
+        if (anchor.length && $tabs.find('[href="'+anchor+'"]').length) {
+            $tabs.foundation('selectTab', $(anchor));
+            // roll up a little to show the header
+            var offset = $tabs.offset();
+            $(window).load(function() {
+                $('html, body').animate({ scrollTop: (offset.top - 100) }, 500);
+            });
+        }
+
+        // append the hash on click
+        $tabs.on('change.zf.tabs', function() {
+            var anchor = $tabs.find('.tabs-title.is-active a').attr('href');
+            history.pushState({}, "", anchor);
+        });
+    });
+}
+
+// turn this on for all the tabs or a subset
+tabDeepLink('.tabs');
+
+
+// Reload hash links
+
+$('.hashlink').click(function(event){
+    location.reload();
+});
+
 //add read more functionality to long paragraphs
 // $('article').readmore({
 //   speed: 75,
