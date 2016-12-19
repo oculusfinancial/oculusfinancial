@@ -71,6 +71,7 @@ tabDeepLink('.tabs');
 
 $('.hashlink').click(function(event){
     location.reload();
+    window.scrollTo(0,0);
 });
 
 //add read more functionality to long paragraphs

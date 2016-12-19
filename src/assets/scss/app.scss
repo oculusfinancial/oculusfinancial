@@ -117,7 +117,7 @@ body {
     text-transform: uppercase;
 }
 .title-bar {
-    background-color: $oc-grey-dark;
+    background-color: $oc-dark-tint;
 }
 
 
@@ -131,7 +131,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 h1#title{
-  padding:1rem;
+  padding:1rem 0;
   position:relative;
   // background-color: $oc-dark-tint;
   display: inline-block;
@@ -275,8 +275,33 @@ nav#main{
       color:$main-nav-hover-colour;
       transition: color 0.3s ease-in-out;
     }
+    @include breakpoint(small down) {
+        a {
+            padding: 1rem 1.5rem;
+        }
+    }
   }
 }
+
+// mobile responsive
+
+@include breakpoint(small down) {
+    .menu-icon {
+        height: 20px;
+    }
+    .menu-centered > .menu {
+        width:100%;
+    }
+    .small-12 {
+        padding: 1rem 0.5rem;
+    }
+
+    .how-we-work-tabs > .tabs-panel, .sub-tabs-content > .tabs-panel {
+        padding-bottom: 30rem;
+    }
+
+  }
+
 
 
 //hero background styling
@@ -387,6 +412,22 @@ ul.tabs {
         width: 100%;
     }
  }
+
+ @include breakpoint(small down) {
+
+     .how-we-work-tabs > .tabs-panel, .sub-tabs-content > .tabs-panel {
+         padding-bottom: 30rem;
+     }
+
+     .ui-tabs-panel {
+        padding: 0 10px;
+    }
+    .full-height-hero {
+        padding-bottom: 17rem;
+    }
+
+}
+
 
 
 

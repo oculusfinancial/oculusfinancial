@@ -275,18 +275,7 @@
                                 <p>
                                  Alastair Kight is a co-founder and Director of Oculus. Alastair has founded and sold several businesses since setting out on an entrepreneurial path in the early 1990’s.  His experience in growing and managing private businesses, his partnership in a growing venture capital business and his strong commercial network brings to Oculus significant commercial expertise to help ensure that Oculus offers the best possible quality of service to its clients.
                                 </p>
-                                <!-- <p>
-                                  After leaving Canterbury University in Christchurch, New Zealand in 1986 where he read Law and Business Administration, Alastair joined Money Brokers Harlow Butler (NZ) Ltd. Three years later, he transferred to their London office. He left the City in 1990 set out on an entrepreneurial path, starting and profitably selling three different businesses.
-                                </p>
-                                <p>
-                                  In 2004 Alastair founded Gritit Ltd, a snow and ice management business. The company set about revolutionising the industry in the UK. During his tenure as Chairman and Managing Director from 2004 to 2012, the company became recognised as industry leaders, its innovative approach in a sector which had historically run “behind the times” lead to it winning multiple awards for, amongst many things, its use of technology and unrivalled customer service levels. A long-running rapid growth story, Gritit was listed in the Virgin Fast Track 100 in 2011 and 2012.
-                                </p>
-                                <p>
-                                  Alastair sold his shareholding in his first two companies in 2007 and 2009 respectively and sold his shareholding in Gritit in 2014 and shortly afterwards became a Partner in Shirlaws where he works in the delivery team at Shirlaws Capital. Alastair personally remains an investor in a number of start-up/early stage UK companies.
-                                </p>
-                                <p>
-                                  Alastair’s experience in growing and managing private businesses and his strong commercial network brings to Oculus significant commercial expertise to help ensure that our business offers the best possible quality of service to our clients.
-                                </p> -->
+
                             </article>
                         </div>
 
