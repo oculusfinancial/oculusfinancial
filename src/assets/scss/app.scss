@@ -1,5 +1,39 @@
 @charset 'utf-8';
 
+/* VIDEO INTRO */
+
+
+#video1 { display:block; margin:0 auto; width:225px !important; z-index:-10; }
+#video1-image { display:none; width:225px;  margin:0 auto; /*z-index:-10;*/ background:url(../videos/oculus-logo.png) no-repeat; }
+
+.jumbotron {
+	margin-bottom: 0;
+}
+
+
+.outer {
+    display: table;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+	background: #e6e6e6;
+    z-index: 99999;
+}
+
+.middle {
+    display: table-cell;
+    vertical-align: middle;
+    // background: #e6e6e6;
+}
+
+.inner {
+    margin-left: auto;
+    margin-right: auto;
+	// background: #e6e6e6;
+    width: 225px;
+	height:65px;
+}
+
 .wow {
   visibility: hidden;
 }
