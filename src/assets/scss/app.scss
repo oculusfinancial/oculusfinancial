@@ -3,8 +3,8 @@
 /* VIDEO INTRO */
 
 
-#video1 { display:block; margin:0 auto; width:225px !important; z-index:-10; }
-#video1-image { display:none; width:225px;  margin:0 auto; /*z-index:-10;*/ background:url(../videos/oculus-logo.png) no-repeat; }
+#video1 { display:block; margin:0 auto; width:380px !important; z-index:0; }
+#video1-image { display:none; width:380px;  margin:0 auto; /*z-index:-10;*/ background:url(../videos/oculus-logo.png) no-repeat; }
 
 .jumbotron {
 	margin-bottom: 0;
@@ -499,7 +499,7 @@ ul.sub-tabs{
 }
 
 .tabs-panel li {
-list-style-type: none;
+list-style-type: disc;
 line-height: 2;
 font-size: 14px;
 text-align: left;
@@ -556,20 +556,20 @@ margin-top: 40px;
 margin-bottom: 5px;
 }
 
-li.bullet-points:before {
-    content: "";
-    border-color: transparent #111;
-    border-style: solid;
-    border-left: 4px solid transparent;
-    border-right: 4px solid transparent;
-    border-bottom: 6px solid #202C59;
-    display: block;
-    height: 0;
-    width: 0;
-    left: -1.3em;
-    top: 1.25em;
-    position: relative;
-}
+// li.bullet-points:before {
+//     content: "";
+//     border-color: transparent #111;
+//     border-style: solid;
+//     border-left: 4px solid transparent;
+//     border-right: 4px solid transparent;
+//     border-bottom: 6px solid #202C59;
+//     display: block;
+//     height: 0;
+//     width: 0;
+//     left: -1.3em;
+//     top: 1.25em;
+//     position: relative;
+// }
 
 .triangle-bullets{
 margin-bottom:50px;
@@ -592,7 +592,7 @@ margin-bottom:50px;
 }
 
 .contact-details-row a:hover {
-    color:#1c3275;
+    color:#888888;
 }
 
 
@@ -633,4 +633,29 @@ margin-bottom:50px;
 }
 div#summary {
     margin-bottom: 40px;
+}
+
+// Team page //
+
+.justify {
+	text-align: justify;
+
+}
+
+.team-name {
+	text-transform: inherit;
+	letter-spacing: normal;
+	color: #152c5b;
+	font-weight: 600;
+	font-size: 20px;
+}
+
+.team-title {
+	text-transform: inherit;
+	letter-spacing: normal;
+	color: #87888a;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 12px;
+
 }

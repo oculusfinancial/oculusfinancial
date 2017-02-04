@@ -48,7 +48,7 @@
 
                             <article>
                               <header>
-                                <h2>Steven Kay QC | chairman | Director</h3>
+                                <h2 class="team-name">Steven Kay QC</h2><h3 class="team-title">Chairman | Director</h3>
                                 <hr>
                               </header>
                               <p>Steven Kay QC is a co-founder of Oculus and serves as the Chairman of the company.</p>
@@ -56,7 +56,7 @@
 
                             <article>
                               <header>
-                                <h2>James Chalmer | Chief Executive Officer | Director</h3>
+                                <h2 class="team-name">James Chalmer </h2><h3 class="team-title">Chief Executive Officer | Director</h3>
                                 <hr>
                               </header>
                               <p>James Chalmer is a co-founder and Director of Oculus and serves as Chief Executive Officer of the company.</p>
@@ -64,7 +64,7 @@
 
                             <article>
                               <header>
-                                <h2>Yousef Al-Majali | Chief Operating Officer | Director</h3>
+                                <h2 class="team-name">Yousef Al-Majali </h2><h3 class="team-title"> Chief Operating Officer | Director</h3>
                                 <hr>
                               </header>
                               <p>Yousef Al-Majali is a co-founder and Director of Oculus and serves as Chief Operating Officer of the company.</p>
@@ -72,7 +72,7 @@
 
                             <article>
                               <header>
-                                <h2>David Tinsley is a co-founder and Director of Oculus.</h3>
+                                <h2 class="team-name">David Tinsley</h3><h3 class="team-title"> Director</h3>
                                 <hr>
                               </header>
                               <p>David Tinsley is a co-founder and Director of Oculus.</p>
@@ -80,7 +80,7 @@
 
                             <article>
                               <header>
-                                <h2>Michael Davies | Director</h3>
+                                <h2 class="team-name">Michael Davies </h2><h3 class="team-title"> Director</h3>
                                 <hr>
                               </header>
                               <p>Michael Davies is a co-founder and Director of Oculus.</p>
@@ -88,7 +88,7 @@
 
                             <article>
                               <header>
-                                <h2>Richard Tickle | Director</h3>
+                                <h2 class="team-name">Richard Tickle </h2><h3 class="team-title"> Director</h3>
                                 <hr>
                               </header>
                               <p>Richard Tickle is a co-founder and Director of Oculus.</p>
@@ -96,7 +96,7 @@
 
                             <article>
                               <header>
-                                <h2>Alastair Kight | Director</h3>
+                                <h2 class="team-name">Alastair Kight </h2><h3 class="team-title"> Director</h3>
                                 <hr>
                               </header>
                               <p>Alastair Kight is a co-founder and Director of Oculus.</p>
@@ -110,9 +110,9 @@
                             <!-- Reveal when clicking on main tabs -->
 
                         <div id="steven-kay">
-                          <article>
+                          <article class="justify">
                             <header>
-                              <h2>Steven Kay QC | chairman | Director</h3>
+                              <h2 class="team-name">Steven Kay QC </h2><h3 class="team-title">Chairman | Director</h3>
                               <hr>
                             </header>
                               <p>
@@ -125,9 +125,9 @@
                         </div>
 
                         <div id="james-chalmer">
-                            <article>
+                            <article class="justify">
                               <header>
-                                <h2>James Chalmer | Chief Executive Officer | Director</h3>
+                                <h2 class="team-name">James Chalmer </h2><h3 class="team-title"> Chief Executive Officer | Director</h3>
                                 <hr>
                               </header>
                                 <p>
@@ -156,9 +156,9 @@
 
 
                         <div id="yousef-al-majali">
-                            <article>
+                            <article class="justify">
                               <header>
-                                <h2>Yousef Al-Majali | Chief Operating Officer | Director</h3>
+                                <h2 class="team-name">Yousef Al-Majali </h2><h3 class="team-title"> Chief Operating Officer | Director</h3>
                                 <hr>
                               </header>
                                 <p>
@@ -184,9 +184,9 @@
 
 
                         <div id="david-tinsley">
-                            <article>
+                            <article class="justify">
                               <header>
-                                <h2>David Tinsley | Director</h3>
+                                <h2 class="team-name">David Tinsley </h2><h3 class="team-title"> Director</h3>
                                 <hr>
                               </header>
                                 <p>
@@ -221,9 +221,9 @@
 
 
                         <div id="michael-davies">
-                            <article>
+                            <article class="justify">
                               <header>
-                                <h2>Michael Davies | Director</h3>
+                                <h2 class="team-name">Michael Davies </h2><h3 class="team-title"> Director</h3>
                                 <hr>
                               </header>
                                 <p>
@@ -243,9 +243,9 @@
 
 
                         <div id="richard-tickle">
-                            <article>
+                            <article class="justify">
                               <header>
-                                <h2>Richard Tickle | Director</h3>
+                                <h2 class="team-name">Richard Tickle </h2><h3 class="team-title"> Director</h3>
                                 <hr>
                               </header>
                                 <p>
@@ -267,13 +267,13 @@
                         </div>
 
                         <div id="alastair-kight">
-                            <article>
+                            <article class="justify">
                               <header>
-                                <h2>Alastair Kight | Director</h3>
+                                <h2 class="team-name">Alastair Kight </h2><h3 class="team-title"> Director</h3>
                                 <hr>
                               </header>
                                 <p>
-                                 Alastair Kight is a co-founder and Director of Oculus. Alastair has founded and sold several businesses since setting out on an entrepreneurial path in the early 1990’s.  His experience in growing and managing private businesses, his partnership in a growing venture capital business and his strong commercial network brings to Oculus significant commercial expertise to help ensure that Oculus offers the best possible quality of service to its clients.
+                                Alastair Kight is a Director of Oculus. Alastair has founded and sold several businesses since setting out on an entrepreneurial path in the early 1990’s. His experience in growing and managing private businesses, his partnership in a growing venture capital business and his strong commercial network brings to Oculus significant commercial expertise to help ensure that Oculus offers the best possible quality of service to its clients.
                                 </p>
 
                             </article>

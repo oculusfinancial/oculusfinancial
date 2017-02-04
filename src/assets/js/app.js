@@ -12,6 +12,7 @@ $(document).foundation();
   });
 }
 
+
 //add class that animates the titles on each page using CSS transitions defined in the main SCSS
 $(function() {
   $('#title').addClass('loadedanimation');
@@ -73,6 +74,13 @@ $('.hashlink').click(function(event){
     location.reload();
     window.scrollTo(0,0);
 });
+
+// TimelineLite for title animation hide
+// $(function() {
+    (new TimelineLite())
+	  .to($('#video1-image'), 0, {autoAlpha:1, delay:5})
+      .to($('.outer'), 3, {autoAlpha:0, delay:0})
+// });
 
 //add read more functionality to long paragraphs
 // $('article').readmore({

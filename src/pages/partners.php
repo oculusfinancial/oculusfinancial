@@ -25,8 +25,8 @@
 <section id="content">
   <div class="text-center">
     <ul class="tabs" data-tabs data-deep-link="true" id="partners-tabs">
-      <li class="tabs-title is-active wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#5-stones-intelligence" aria-selected="true">5 Stones Intelligence</a></li>
-      <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#9-bedford-row-international">9 Bedford Row International</a></li>
+      <li class="tabs-title is-active wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#5-stones-intelligence" aria-selected="true">5 Stones intelligence</a></li>
+      <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#9-bedford-row-international">9 Bedford Row</a></li>
       <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#providence">Providence Group</a></li>
     </ul>
   </div>
@@ -59,11 +59,11 @@
       <div class="row">
         <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s">
           <div class="row column text-center">
-            <a href="http://9bri.com/" class="" target="_blank"><img src="assets/img/partners/9bri.png"></a>
+            <a href="http://www.9bedfordrow.co.uk/" class="" target="_blank"><img src="assets/img/partners/9bri.png"></a>
           </div>
-          <p>The international arm of 9 Bedford Row Chambers, 9 Bedford Row International, specialises in international law. Members have appeared in major trials in the international courts including the ICC in The Hague. The Chambers has expertise in dealing with international financial crimes (including asset recovery and defence against asset seizures), international regulatory organisations and compliance matters, international drug trafficking, money laundering and financial crimes, illicit arms dealing, terrorism, human rights and maritime law. Drawing on 3 QC’s, 20 barristers and 3 specialist associate members; 9 Bedford Row International works exclusively and very closely with its financial world focused intelligence counterpart, Oculus Financial Intelligence.</p>        </div>
+          <p>9 Bedford Row Chambers (<a href="http://www.9bedfordrow.co.uk/" target="_blank">www.9bedfordrow.co.uk)</a> has a specialist practice section named 9 Bedford Row International (<a href="http://9bri.com/" target="_blank">www.9bri.com</a>) that specialises in international law. Members of 9 Bedford Row have appeared in major international trials and have additional expertise in dealing with international financial crimes. Oculus Financial Intelligence works exclusively with this leading set of barristers of whom Steven Kay QC our Chairman of the Board is also Head of Chambers.  </p>        </div>
           <div class="row column text-center">
-            <a href="http://9bri.com/" class="button primary" target="_blank">Website</a>
+            <a href="http://www.9bedfordrow.co.uk/" class="button primary" target="_blank">Go to website</a>
           </div>
       </div>
     </div>
@@ -85,7 +85,7 @@
           <p>In recognition of the importance of the Strategic Partnership between the companies, Michael Davies, a co-founder of Providence who serves as CEO of the company is also a Director of Oculus.</p>
 
           <div class="row column text-center">
-            <a href="http://www.providenceitf.com/" class="button primary" target="_blank">Website</a>
+            <a href="http://www.providenceitf.com/" class="button primary" target="_blank">Go to website</a>
           </div>
         </div>
       </div>
