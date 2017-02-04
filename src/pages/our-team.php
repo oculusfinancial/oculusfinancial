@@ -44,6 +44,8 @@
 
                     <div class="columns small-12 medium-8 small-centered medium-uncentered">
 
+                      <div class="team-bg">
+
                         <div id="summary" class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">
 
                             <article>
@@ -279,6 +281,7 @@
                             </article>
                         </div>
 
+                      </div>
                     </div>
                 </div>
             </div>

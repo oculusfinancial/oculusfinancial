@@ -52,7 +52,7 @@ function tabDeepLink(selector) {
             // roll up a little to show the header
             var offset = $tabs.offset();
             $(window).load(function() {
-                $('html, body').animate({ scrollTop: (offset.top - 100) }, 500);
+                $('html, body').animate({ scrollTop: (offset.top - 200) }, 500);
             });
         }
 
