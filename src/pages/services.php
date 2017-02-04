@@ -45,7 +45,7 @@
         <div class="tabs-panel is-active enhanced-background" id="panela1">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="wow fadeIn columns small-12 medium-4 small-centered" data-wow-duration="2s" data-wow-delay="0">
+            <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s" data-wow-delay="0">
                 <p>Oculus conduct Enhanced Due Diligence &amp; Investigations for Financial Investors ranging from small scale employee screening to large scale public and private market investment focused work. Oculus conduct and provide; Hedge Fund Equity Long/Short Investigations, Private Equity Asset Due Diligence, Employee Screening, Banking Intelligence Support, Anti-Money Laundering (AML) Investigative Support and Internal Investigations for our Financial Investor Clients.</p>
             </div>
           </div>
@@ -53,14 +53,14 @@
         <div class="tabs-panel services1-background" id="panela2">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="wow fadeIn columns small-12 medium-4 small-centered">
+            <div class="wow fadeIn columns small-12 medium-8 small-centered">
               <p>Oculus conduct Asset Investigation, Tracing &amp; Recovery services for Financial Investors which deal with Public Market Fraud and Financial Crimes and the Misappropriation of Investor Assets.</p>
             </div>
           </div>        </div>
         <div class="tabs-panel litigation-background-fin" id="panela3">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="wow fadeIn columns small-12 medium-4 small-centered">
+            <div class="wow fadeIn columns small-12 medium-8 small-centered">
               <p>Oculus offer Litigation Support to Financial Investors who are involved in financially driven litigation on both sides of civil and criminal litigation involving broadly either FCA/SEC Regulatory Disputes and Investment Protection.</p>
             </div>
           </div>        </div>
@@ -100,7 +100,7 @@
         <div class="tabs-panel is-active enhanced-background" id="panelb1">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="wow fadeIn columns small-12 medium-4 small-centered">
+            <div class="wow fadeIn columns small-12 medium-8 small-centered">
                <p>Oculus conduct Enhanced Due Diligence &amp; Investigations for Corporate Clients ranging from small scale employee screening to large scale merger &amp; acquisition and pre-joint venture due diligence work. Oculus conduct and provide; Merger &amp; Acquisition Targets Due Diligence, Pre-Joint Venture Due Diligence, Delivery Partner Due Diligence, Employee Screening and Internal Investigations for our Corporate Clients.</p>
             </div>
           </div>
@@ -108,7 +108,7 @@
         <div class="tabs-panel services1-background" id="panelb2">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="wow fadeIn columns small-12 medium-4 small-centered">
+            <div class="wow fadeIn columns small-12 medium-8 small-centered">
              <p>Oculus conduct Asset Investigation, Tracing &amp; Recovery services for Corporate Clients which deal with Unpaid Receivables and the Misappropriation of Company Assets.</p>
             </div>
           </div>
@@ -116,7 +116,7 @@
         <div class="tabs-panel litigation-background" id="panelb3">
           <div class="tint tint-light"></div>
           <div class="row">
-            <div class="wow fadeIn columns small-12 medium-4 small-centered">
+            <div class="wow fadeIn columns small-12 medium-8 small-centered">
                  <p>Oculus offer Litigation Support to Corporate Clients who are involved in financially driven litigation on both sides of civil and criminal litigation involving broadly FCA/SEC Regulatory Disputes, Corporate Crisis Management Intelligence Support, Contract Disputes and Shareholder Action.</p>
             </div>
           </div>
@@ -159,7 +159,7 @@
               <div class="tabs-panel is-active enhanced-background" id="panelc1">
                 <div class="tint tint-light"></div>
                 <div class="row">
-                  <div class="wow fadeIn columns small-12 medium-4 small-centered">
+                  <div class="wow fadeIn columns small-12 medium-8 small-centered">
                     <p>Oculus conduct Enhanced Due Diligence & Investigations for Private Clients ranging from small scale character verification to large scale pre-investment due diligence work. Oculus conduct and provide; Pre-Investment Due Diligence, Prospective Business Relations Due Diligence, Character Verification and Personal Profile Management for our Private Clients.</p>
                   </div>
                 </div>
@@ -167,7 +167,7 @@
               <div class="tabs-panel services1-background" id="panelc2">
                 <div class="tint tint-light"></div>
                 <div class="row">
-                  <div class="wow fadeIn columns small-12 medium-4 small-centered">
+                  <div class="wow fadeIn columns small-12 medium-8 small-centered">
                     <p>Oculus conduct Asset Investigation, Tracing &amp; Recovery services for Private Clients which deal with Divorce Asset Investigations, Unpaid Debts, Estate Disputes and the Misappropriation of Assets.</p>
                   </div>
                 </div>
@@ -175,7 +175,7 @@
               <div class="tabs-panel litigation-background" id="panelc3">
                 <div class="tint tint-light"></div>
                 <div class="row">
-                  <div class="wow fadeIn columns small-12 medium-4 small-centered">
+                  <div class="wow fadeIn columns small-12 medium-8 small-centered">
                         <p>Oculus offer Litigation Support to Private Clients who are involved in financially driven litigation on both sides of civil and criminal litigation involving broadly Divorce Disputes, Crisis Management Intelligence Support, Inheritance Disputes.</p>
                   </div>
                 </div>
