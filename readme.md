@@ -1,3 +1,12 @@
+# Notes
+
+If using valet to serve sites locally, link the /dist/ folder in order to preview the site:
+
+`cd dist`
+`valet link oculus`
+
+- then you can run oculus.test.
+
 # ZURB Template
 
 [![devDependency Status](https://david-dm.org/zurb/foundation-zurb-template/dev-status.svg)](https://david-dm.org/zurb/foundation-zurb-template#info=devDependencies)

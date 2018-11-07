@@ -125,7 +125,8 @@ function server(done) {
     // server: PATHS.dist, port: PORT
     //or
     //use apache and point to proxy server:
-    proxy: "localhost:8888/oculus/dist", port: PORT
+    // proxy: "localhost:8888/oculus/dist", port: PORT
+    proxy: 'oculus.test'
   });
   done();
 }

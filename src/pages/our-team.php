@@ -37,7 +37,7 @@
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#david-tinsley">David Tinsley</a></li>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.8s"><a href="#michael-davies">Michael Davies</a></li>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#richard-tickle">Richard Tickle</a></li>
-                        <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"><a href="#alastair-kight">ALASTAIR KIGHT</a></li>
+                        <?php /* <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"><a href="#alastair-kight">ALASTAIR KIGHT</a></li> */ ?>
                       </ul>
 
                     </div>
@@ -96,6 +96,7 @@
                               <p>Richard Tickle is a co-founder and Director of Oculus.</p>
                             </article>
 
+                            <?php /*
                             <article>
                               <header>
                                 <h2 class="team-name">Alastair Kight </h2><h3 class="team-title"> Director</h3>
@@ -103,6 +104,7 @@
                               </header>
                               <p>Alastair Kight is a co-founder and Director of Oculus.</p>
                             </article>
+                            */ ?>
 
 
 
@@ -268,6 +270,7 @@
                             </article>
                         </div>
 
+                        <?php /*
                         <div id="alastair-kight">
                             <article class="justify">
                               <header>
@@ -280,6 +283,7 @@
 
                             </article>
                         </div>
+                        */ ?>
 
                       </div>
                     </div>
