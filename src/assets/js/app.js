@@ -82,6 +82,7 @@ $('.hashlink').click(function(event){
       .to($('.outer'), 3, {autoAlpha:0, delay:0})
 // });
 
+
 //add read more functionality to long paragraphs
 // $('article').readmore({
 //   speed: 75,
