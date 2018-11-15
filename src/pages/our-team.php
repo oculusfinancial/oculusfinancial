@@ -103,7 +103,7 @@
                                 <h2 class="team-name">Richard Proctor </h2><h3 class="team-title"> Director</h3>
                                 <!-- <hr> -->
                               </header>
-                              <!-- <p>Alastair Kight is a co-founder and Director of Oculus.</p> -->
+                              <p>Richard Proctor is a Director of Oculus and serves as the in-house Legal Counsel of the company.</p>
                             </article>
 
                             <?php /*
@@ -180,9 +180,6 @@
                                 </p>
                                 <p>
                                   In 2008 Yousef founded Salim Security Group Ltd, a private security company registered in the Hashemite Kingdom of Jordan. The company sponsored the Special Operations Forces Exhibition 2008 (SOFEX 2008 – www.sofexjordan.com) and ceased operations in 2010 amongst the coalition draw-down in Iraq and changing political circumstances in the Middle East. Between 2008 and 2011 Yousef also worked closely with Skytech International (also known as Skytech Helicopters) an international defence equipment brokerage based in Belgium, while registered with UK export control Yousef represented Skytech in a number of interactions with prospective clients, original equipment manufacturers and defence buyers at government level.
-                                </p>
-                                <p>
-                                  In 2011 Yousef co-founded Communication Management Consultants Ltd, also registered in the Hashemite Kingdom of Jordan. The company acted as the exclusive consultant in the Middle East’s Levant region to the Bell Pottinger Group (formerly owned by Chime Communications PLC). The business introduced government and corporate clients and promoted the Bell Pottinger Group’s financial PR and government lobbying services. During the same year Yousef also co-developed a fully systematic forex trading platform.
                                 </p>
                                 <p>
                                   In 2012 Yousef was Chief Operating Officer of G Six International Group WLL, a Private Equity investment brokerage and principle investor focused on the Middle East region registered in the Kingdom of Bahrain. The company was owned by a leading member of the Bahraini Royal family and an Ultra High Net Worth Individual. In his capacity as COO Yousef was also the Middle East Director for and Board Representative to EON Reality Inc. (www.eonreality.com), a company registered in the State of California in the United States. Yousef worked closely with the Chairman of EON Reality and was responsible for business development and investment promotion to prospective international clients, including Sovereign State Investment Authorities, Corporates and High-Net-Worth Individuals.
