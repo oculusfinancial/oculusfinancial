@@ -37,6 +37,7 @@
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#david-tinsley">David Tinsley</a></li>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.8s"><a href="#michael-davies">Michael Davies</a></li>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#richard-tickle">Richard Tickle</a></li>
+                        <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"><a href="#richard-proctor">Richard Proctor</a></li>
                         <?php /* <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"><a href="#alastair-kight">ALASTAIR KIGHT</a></li> */ ?>
                       </ul>
 
@@ -94,6 +95,15 @@
                                 <hr>
                               </header>
                               <p>Richard Tickle is a co-founder and Director of Oculus.</p>
+                            </article>
+
+
+                            <article>
+                              <header>
+                                <h2 class="team-name">Richard Proctor </h2><h3 class="team-title"> Director</h3>
+                                <!-- <hr> -->
+                              </header>
+                              <!-- <p>Alastair Kight is a co-founder and Director of Oculus.</p> -->
                             </article>
 
                             <?php /*
@@ -269,6 +279,23 @@
                                 </p>
                             </article>
                         </div>
+
+
+                        <div id="richard-proctor" class="wow fadeIn" data-wow-duration="2s">
+                           <article class="justify">
+                             <header>
+                               <h2 class="team-name">Richard Proctor </h2><h3 class="team-title"> Director</h3>
+                               <hr>
+                             </header>
+                               <p>
+                                 Richard is a Director of Oculus Financial Intelligence and our in-house legal counsel.
+                               </p>
+                               <p>
+                                 Richard holds degrees in law, economics and finance from Victoria University in New Zealand.   Richard’s legal career has focused on complex financial disputes and investigations.  Over the last decade, he has worked for a number of private practice firms on some of the largest disputes and investigations in the London market.  These matters have included investigating the collapse of Enron; claims arising from the manipulation of Libor; claims concerning the front running of interest rate swaps; claims arising from the insolvency of Lehman Brothers; tax investigations; the renegotiation of failed securitisations; regulatory investigations into the mis-selling of complex derivatives; defending FX traders against allegations of currency manipulation; prosecuting fraud claims; asset tracing; freezing injunctions; enforcement actions; and the seizure of commercial aircraft and boats.  As such, Richard brings a wealth of legal experience to Oculus’ financial investigations business.
+                               </p>
+
+                           </article>
+                       </div>
 
                         <?php /*
                         <div id="alastair-kight">
