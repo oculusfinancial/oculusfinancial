@@ -153,7 +153,7 @@
                                   In 2011, prior to co-founding Oculus, James became a consultant to North Square Blue Oak (NSBO), an Anglo Chinese investment firm, with a main focus on raising funds for diversified investment projects in his capacity as head of special projects within the company.
                                 </p>
                                 <p>
-                                  James’s career of over 30 years in the global financial markets combined with a strong grounding in accounting and auditing brings to Oculus significant financial s and accounting experience and oversight for the services of our clients.
+                                  James’s career of over 30 years in the global financial markets combined with a strong grounding in accounting and auditing brings to Oculus significant financial and accounting experience and oversight for the services of our clients.
                                 </p>
                             </article>
                         </div>
