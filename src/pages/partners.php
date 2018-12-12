@@ -25,8 +25,8 @@
 <section id="content">
   <div class="text-center">
     <ul class="tabs" data-tabs data-deep-link="true" id="partners-tabs">
-      <li class="tabs-title is-active wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#5-stones-intelligence" aria-selected="true">5 Stones intelligence</a></li>
-      <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#9-bedford-row-international">9 Bedford Row</a></li>
+      <?php // <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#5-stones-intelligence" aria-selected="true">5 Stones intelligence</a></li> ?>
+      <li class="tabs-title is-active wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#9-bedford-row-international">9 Bedford Row</a></li>
       <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#providence">Providence Group</a></li>
     </ul>
   </div>
@@ -34,7 +34,7 @@
 
   <div class="tabs-content parent-tabs how-we-work-tabs" data-tabs-content="partners-tabs">
 
-    <div class="tabs-panel is-active partners-background" id="5-stones-intelligence">
+    <?php /* <div class="tabs-panel  partners-background" id="5-stones-intelligence">
       <div class="tint tint-light"></div>
       <div class="row">
         <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s"  data-wow-delay="0.5s">
@@ -50,11 +50,10 @@
             <a href="http://5stonesintelligence.com/" class="button primary" target="_blank">Website</a>
           </div>
       </div>
-    </div>
+    </div> */ ?>
 
 
-
-    <div class="tabs-panel bedford-background" id="9-bedford-row-international">
+    <div class="tabs-panel is-active partners-background bedford-background" id="9-bedford-row-international">
       <div class="tint tint-light"></div>
       <div class="row">
         <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s">

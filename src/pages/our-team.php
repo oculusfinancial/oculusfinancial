@@ -34,11 +34,11 @@
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s"><a href="#steven-kay">Steven Kay QC</a></li>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#james-chalmer">James Chalmer</a></li>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s"><a href="#yousef-al-majali">Yousef Al-Majali</a></li>
-                        <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#david-tinsley">David Tinsley</a></li>
+                        <?php //<li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#david-tinsley">David Tinsley</a></li> ?>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.8s"><a href="#michael-davies">Michael Davies</a></li>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#richard-tickle">Richard Tickle</a></li>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"><a href="#richard-proctor">Richard Proctor</a></li>
-                        <?php /* <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"><a href="#alastair-kight">ALASTAIR KIGHT</a></li> */ ?>
+                        <?php // <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"><a href="#alastair-kight">ALASTAIR KIGHT</a></li> ?>
                       </ul>
 
                     </div>
@@ -73,13 +73,13 @@
                               <p>Yousef Al-Majali is a co-founder and Director of Oculus and serves as Chief Operating Officer of the company.</p>
                             </article>
 
-                            <article>
+                            <?php /*<article>
                               <header>
                                 <h2 class="team-name">David Tinsley</h3><h3 class="team-title"> Director</h3>
                                 <hr>
                               </header>
                               <p>David Tinsley is a co-founder and Director of Oculus.</p>
-                            </article>
+                            </article> */ ?>
 
                             <article>
                               <header>
@@ -194,7 +194,7 @@
                         </div>
 
 
-                        <div id="david-tinsley">
+                        <?php /*<div id="david-tinsley">
                             <article class="justify">
                               <header>
                                 <h2 class="team-name">David Tinsley </h2><h3 class="team-title"> Director</h3>
@@ -228,7 +228,7 @@
                                  David’s significant law enforcement and intelligence community experience, international HUMINT network and significant operational supply chain combined with his market leading expertise on leveraging government award payments brings to Oculus a powerful support structure and strengthens the strategic partnership between Oculus and 5Si at board level.
                                 </p>
                             </article>
-                        </div>
+                        </div> */ ?>
 
 
                         <div id="michael-davies">
