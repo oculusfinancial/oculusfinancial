@@ -67,10 +67,10 @@
 
                             <article>
                               <header>
-                                <h2 class="team-name">Yousef Al-Majali </h2><h3 class="team-title"> Chief Operating Officer | Director</h3>
+                                <h2 class="team-name">Yousef Al-Majali </h2><h3 class="team-title">Director</h3>
                                 <hr>
                               </header>
-                              <p>Yousef Al-Majali is a co-founder and Director of Oculus and serves as Chief Operating Officer of the company.</p>
+                              <p>Yousef Al-Majali is a co-founder and Director of Oculus.</p>
                             </article>
 
                             <?php /*<article>
@@ -172,11 +172,11 @@
                         <div id="yousef-al-majali">
                             <article class="justify">
                               <header>
-                                <h2 class="team-name">Yousef Al-Majali </h2><h3 class="team-title"> Chief Operating Officer | Director</h3>
+                                <h2 class="team-name">Yousef Al-Majali </h2><h3 class="team-title">Director</h3>
                                 <hr>
                               </header>
                                 <p>
-                                  Yousef Al-Majali is a co-founder and Director of Oculus and serves as Chief Operating Officer of the company. Yousef is fluent in Arabic, speaks basic Mandarin and holds a BA in International Relations from the University of Exeter. He brings significant financial markets, company operations and business development experience to Oculus as well as extensive market experience internationally, having worked out of the Levant, the GCC Region, North Africa, Malaysia, Azerbaijan, and The Far East as well as the United Kingdom.
+                                  Yousef Al-Majali is a co-founder and Director of Oculus. Yousef is fluent in Arabic, speaks basic Mandarin and holds a BA in International Relations from the University of Exeter. He brings significant financial markets, company operations and business development experience to Oculus as well as extensive market experience internationally, having worked out of the Levant, the GCC Region, North Africa, Malaysia, Azerbaijan, and The Far East as well as the United Kingdom.
                                 </p>
                                 <p>
                                   In 2008 Yousef founded Salim Security Group Ltd, a private security company registered in the Hashemite Kingdom of Jordan. The company sponsored the Special Operations Forces Exhibition 2008 (SOFEX 2008 – www.sofexjordan.com) and ceased operations in 2010 amongst the coalition draw-down in Iraq and changing political circumstances in the Middle East. Between 2008 and 2011 Yousef also worked closely with Skytech International (also known as Skytech Helicopters) an international defence equipment brokerage based in Belgium, while registered with UK export control Yousef represented Skytech in a number of interactions with prospective clients, original equipment manufacturers and defence buyers at government level.
