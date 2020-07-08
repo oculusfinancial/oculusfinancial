@@ -33,7 +33,7 @@
                     <ul class="text-uppercase">
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s"><a href="#steven-kay">Steven Kay QC</a></li>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#james-chalmer">James Chalmer</a></li>
-                        <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s"><a href="#yousef-al-majali">Yousef Al-Majali</a></li>
+                        <?php // <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s"><a href="#yousef-al-majali">Yousef Al-Majali</a></li> ?>
                         <?php //<li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#david-tinsley">David Tinsley</a></li> ?>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.8s"><a href="#michael-davies">Michael Davies</a></li>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#richard-tickle">Richard Tickle</a></li>
@@ -65,13 +65,13 @@
                               <p>James Chalmer is a co-founder and Director of Oculus and serves as Chief Executive Officer of the company.</p>
                             </article>
 
-                            <article>
+                            <?php /*<article>
                               <header>
                                 <h2 class="team-name">Yousef Al-Majali </h2><h3 class="team-title">Director</h3>
                                 <hr>
                               </header>
                               <p>Yousef Al-Majali is a co-founder and Director of Oculus.</p>
-                            </article>
+                            </article> */ ?>
 
                             <?php /*<article>
                               <header>
@@ -168,7 +168,7 @@
                             </article>
                         </div>
 
-
+                        <?php /*
                         <div id="yousef-al-majali">
                             <article class="justify">
                               <header>
@@ -192,6 +192,7 @@
                                 </p>
                             </article>
                         </div>
+                        */ ?>
 
 
                         <?php /*<div id="david-tinsley">
