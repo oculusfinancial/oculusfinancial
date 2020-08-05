@@ -8,20 +8,21 @@
   $page_id = "home";
 }
 ?>
-
+<!--  
 <?php if ($page_id == "home") { ?>
-  <!--checks to see if the page id has already been set to about by the about.php page-->
-  <div class="outer" id="#videoholder">
-    <div class="middle animated fadeIn">
-      <div class="inner">
-        <div id="video1">
-          <img src="assets/videos/oculus-intro-small.gif?<?php echo date("Ymdgis"); ?>" alt="" />
-        </div>
+  <!--checks to see if the page id has already been set to about by the about.php page
+<div class="outer" id="#videoholder">
+  <div class="middle animated fadeIn">
+    <div class="inner">
+      <div id="video1">
+        <img src="assets/videos/oculus-intro-small.gif?<?php echo date("Ymdgis"); ?>" alt="" />
       </div>
     </div>
   </div>
+</div>
 <?php } ?>
 <!-- === END of PHP for home page / about page decisionmaking, and loading of the intro graphic === -->
+
 
 <header>
   {{> nav}}
