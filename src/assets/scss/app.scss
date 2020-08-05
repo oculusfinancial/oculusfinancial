@@ -2,45 +2,53 @@
 
 /* VIDEO INTRO */
 
-
-#video1 { display:block; margin:0 auto; width:380px !important; z-index:0; }
-#video1-image { display:none; width:380px;  margin:0 auto; /*z-index:-10;*/ background:url(../videos/oculus-logo.png) no-repeat; }
-
-.jumbotron {
-	margin-bottom: 0;
+#video1 {
+  display: block;
+  margin: 0 auto;
+  width: 380px !important;
+  z-index: 0;
+}
+#video1-image {
+  display: none;
+  width: 380px;
+  margin: 0 auto; /*z-index:-10;*/
+  background: url(../videos/oculus-logo.png) no-repeat;
 }
 
+.jumbotron {
+  margin-bottom: 0;
+}
 
 .outer {
-    display: table;
-    position: fixed;
-    height: 100%;
-    width: 100%;
-	background: #e6e6e6;
-    z-index: 99999;
+  display: table;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background: #e6e6e6;
+  z-index: 99999;
 }
 
 .middle {
-    display: table-cell;
-    vertical-align: middle;
-    // background: #e6e6e6;
+  display: table-cell;
+  vertical-align: middle;
+  // background: #e6e6e6;
 }
 
 .inner {
-    margin-left: auto;
-    margin-right: auto;
-	// background: #e6e6e6;
-    width: 380px;
-	height: 106px;
+  margin-left: auto;
+  margin-right: auto;
+  // background: #e6e6e6;
+  width: 380px;
+  height: 106px;
 }
 
 .wow {
   visibility: hidden;
 }
 
-@import 'settings';
-@import 'foundation';
-@import 'motion-ui';
+@import "settings";
+@import "foundation";
+@import "motion-ui";
 
 @include foundation-global-styles;
 @include foundation-grid;
@@ -97,76 +105,83 @@
 // 7. Colours
 
 //colours
-$oc-blue       :#202C59;
-$oc-light-blue :#354993;
-$oc-grey       :#fff;
-$oc-light      :#fff;
-$oc-dark-tint  :#182144;
-$oc-light-tint :rgba(200,200,200,0.85);
-$action       :#fff;
+$oc-blue: #202c59;
+$oc-light-blue: #354993;
+$oc-grey: #fff;
+$oc-light: #fff;
+$oc-dark-tint: #182144;
+$oc-light-tint: rgba(200, 200, 200, 0.85);
+$action: #fff;
 
-$oc-grey-dark  :#060d1e;
+$oc-grey-dark: #060d1e;
 
 //COLOUR SETTINGS
 //nav
-$main-nav-bg-colour         : $oc-dark-tint;
-$main-nav-text-colour       : $oc-grey;
-$main-nav-hover-colour      : $oc-light-blue;
+$main-nav-bg-colour: $oc-dark-tint;
+$main-nav-text-colour: $oc-grey;
+$main-nav-hover-colour: $oc-light-blue;
 
 //hero
-$tint-colour                : $oc-light-tint;
-$hero-font-colour           : $oc-grey-dark;
+$tint-colour: $oc-light-tint;
+$hero-font-colour: $oc-grey-dark;
 
 //button
-$oc-button-border-colour    : #060d1e;
-$oc-button-hover-colour     : $action;
+$oc-button-border-colour: #060d1e;
+$oc-button-hover-colour: $action;
 
 //Content Tabs Custom Colours
-$sub-tabs-bg-colour         : #eee;
-$sub-tabs-active-colour     : #ddd;
+$sub-tabs-bg-colour: #eee;
+$sub-tabs-active-colour: #ddd;
 
 //call to action
-$call-to-action-colour      : $action;
-$call-to-action-bg          : rgba(15, 21, 43, 0.84);
-$call-to-action-text-colour : #fff;
+$call-to-action-colour: $action;
+$call-to-action-bg: rgba(15, 21, 43, 0.84);
+$call-to-action-text-colour: #fff;
 
 //footer
-$footer-bg-colour           : $oc-grey-dark;
-$footer-heading-colour      : $oc-light;
-$footer-text-colour         : $oc-grey;
+$footer-bg-colour: $oc-grey-dark;
+$footer-heading-colour: $oc-light;
+$footer-text-colour: $oc-grey;
 
 body {
-    color: #000;
-    background: #fff;
+  color: #000;
+  background: #fff;
 }
 
 // TEMPORARY (!) FIX FOR THE COLUMN BREAKS
 
-.medium-uncentered, .medium-uncentered:last-child:not(:first-child){
-  float:left;
-  clear:none;
+.medium-uncentered,
+.medium-uncentered:last-child:not(:first-child) {
+  float: left;
+  clear: none;
 }
 
 .text-uppercase {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 .title-bar {
-    background-color: $oc-dark-tint;
+  background-color: $oc-dark-tint;
 }
 
-
 //colour classes
-.action{color:$action;}
+.action {
+  color: $action;
+}
 
 // Header fonts
-h1, h2, h3, h4, h5, h6{
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   text-transform: uppercase;
   letter-spacing: 0.1rem;
 }
 
-h1#title{
-  padding:1rem 0;
-  position:relative;
+h1#title {
+  padding: 1rem 0;
+  position: relative;
   // background-color: $oc-dark-tint;
   display: inline-block;
   text-align: center;
@@ -175,79 +190,125 @@ h1#title{
   margin: 3rem 0;
 }
 
-.loadanimation::after{
-  content: '';
-  position:absolute;
+.loadanimation::after {
+  content: "";
+  position: absolute;
   height: calc(100% + 2px);
-  width:0;
-  top:-1px;
-  left:50%;
+  width: 0;
+  top: -1px;
+  left: 50%;
   border-top: 1px solid $oc-button-border-colour;
   border-bottom: 1px solid $oc-button-border-colour;
   // background-color: $oc-dark-tint;
   transform: translateX(-50%);
-  display:block;
+  display: block;
 }
 
-.loadedanimation::after{
-  width:150%;
+.loadedanimation::after {
+  width: 150%;
   transition: width 3s ease-out;
 }
 
 // Background images for all pages and page sections
-.home-background      {background-image: url(../img/bw/hero-bg-4.jpg);}
-.services-background  {background-image: url(../img/bw/working-with-clients-4.jpg);}
-.how-background       {background-image: url(../img/bw/how-we-work-oculus.jpg);}
-.how-contracting-background       {background-image: url(../img/bw/how-we-work-contracting.jpg);}
-.how-methodology-background       {background-image: url(../img/bw/how-we-work-methodology-light..jpg);}
-.how-capability-background       {background-image: url(../img/bw/how-we-work-capability.jpg);}
-.partners-background  {background-image: url(../img/bw/qf-partners-2.png);}
-.bedford-background    {background-image: url(../img/bw/qf-partners-1-light.jpg);}
-.contact-background    {background-image: url(../img/bw/header-5.png);}
-.team-background    {background-image: url(../img/bw/oculus-team.jpg);}
-.providence-background {background-image: url(../img/bw/providence-group-partners-oculus.jpg);}
-.services1-background  {background-image: url(../img/bw/service1-light.jpg);}
-.services2-background  {background-image: url(../img/bw/service2.jpg);}
-.services3-background  {background-image: url(../img/bw/service3.jpg);}
-.dep-justice-background  {background-image: url(../img/bw/department-justice.jpg);}
-.enhanced-background {background-image: url(../img/bw/enhanced-due-diligence-investigations-light.jpg);}
-.litigation-background {background-image: url(../img/bw/litigation-support.jpg);}
-.litigation-background-fin {background-image: url(../img/bw/litigation-support-financial-light.jpg);}
-.technical-background {background-image: url(../img/bw/technical-support-services-light.jpg);}
+.home-background {
+  background-image: url(../img/bw/hero-bg-4.jpg);
+}
+.services-background {
+  background-image: url(../img/bw/working-with-clients-4.jpg);
+}
+.how-background {
+  background-image: url(../img/bw/how-we-work-oculus.jpg);
+}
+.how-contracting-background {
+  background-image: url(../img/bw/how-we-work-contracting.jpg);
+}
+.how-methodology-background {
+  background-image: url(../img/bw/how-we-work-methodology-light..jpg);
+}
+.how-capability-background {
+  background-image: url(../img/bw/how-we-work-capability.jpg);
+}
+.partners-background {
+  background-image: url(../img/bw/qf-partners-2.png);
+}
+.bedford-background {
+  background-image: url(../img/bw/qf-partners-1-light.jpg);
+}
+.contact-background {
+  background-image: url(../img/bw/header-5.png);
+}
+.team-background {
+  background-image: url(../img/bw/oculus-team.jpg);
+}
+.providence-background {
+  background-image: url(../img/bw/providence-group-partners-oculus.jpg);
+}
+.services1-background {
+  background-image: url(../img/bw/service1-light.jpg);
+}
+.services2-background {
+  background-image: url(../img/bw/service2.jpg);
+}
+.services3-background {
+  background-image: url(../img/bw/service3.jpg);
+}
+.dep-justice-background {
+  background-image: url(../img/bw/department-justice.jpg);
+}
+.enhanced-background {
+  background-image: url(../img/bw/enhanced-due-diligence-investigations-light.jpg);
+}
+.litigation-background {
+  background-image: url(../img/bw/litigation-support.jpg);
+}
+.litigation-background-fin {
+  background-image: url(../img/bw/litigation-support-financial-light.jpg);
+}
+.technical-background {
+  background-image: url(../img/bw/technical-support-services-light.jpg);
+}
 
 // HELPERS
-.nomargin{margin:0;}
-.nopad{padding:0;}
+.nomargin {
+  margin: 0;
+}
+.nopad {
+  padding: 0;
+}
 
 //BRAND ICON LOGO
-$logo-svg: url(../img/brand/oculus-logo.svg) ;
-$logo-png: url(../img/brand/oculus-logo.png) ;
+$logo-svg: url(../img/brand/oculus-logo.svg);
+$logo-png: url(../img/brand/oculus-logo.png);
 
-$icon-svg: url(../img/brand/oculus-icon.svg) ;
-$icon-png: url(../img/brand/oculus-icon.png) ;
+$icon-svg: url(../img/brand/oculus-icon.svg);
+$icon-png: url(../img/brand/oculus-icon.png);
 
-.icon{
-  background-image:$icon-svg;
-  background-repeat:no-repeat;
+.icon {
+  background-image: $icon-svg;
+  background-repeat: no-repeat;
   display: inline-block;
-  height:40px;
-  width:40px;
-  margin:0;
-  padding:0;
+  height: 40px;
+  width: 40px;
+  margin: 0;
+  padding: 0;
 }
 
-.logo{
-  background-image:$logo-svg;
-  background-repeat:no-repeat;
+.logo {
+  background-image: $logo-svg;
+  background-repeat: no-repeat;
   display: inline-block;
-  height:60px;
-  width:224px;
-  margin:0;
-  padding:0;
+  height: 60px;
+  width: 224px;
+  margin: 0;
+  padding: 0;
 }
 
-.no-svg .icon{background-image:$icon-png;}
-.no-svg .logo{background-image:$logo-png;}
+.no-svg .icon {
+  background-image: $icon-png;
+}
+.no-svg .logo {
+  background-image: $logo-png;
+}
 
 //button
 .ocbutton {
@@ -261,58 +322,58 @@ $icon-png: url(../img/brand/oculus-icon.png) ;
   padding: 0.85em 1em;
   border-top: 1px solid $oc-button-border-colour;
   border-bottom: 1px solid $oc-button-border-colour;
-  position:relative;
+  position: relative;
 }
 
 .ocbutton::after {
-  content: '';
+  content: "";
   display: block;
   background-color: none;
   position: absolute;
-  top:-1px;
-  left:50%;
-  width:0%;
+  top: -1px;
+  left: 50%;
+  width: 0%;
   height: calc(100% + 2px);
   border-top: 1px solid $oc-button-hover-colour;
   border-bottom: 1px solid $oc-button-hover-colour;
-  transform: translateX(-50%) ;
+  transform: translateX(-50%);
   transition: width 0.5s ease-in-out;
 }
 
-.ocbutton:hover{
-  color:$action;
+.ocbutton:hover {
+  color: $action;
 }
 
-.ocbutton:hover::after{
-  width:100%;
+.ocbutton:hover::after {
+  width: 100%;
   transition: width 0.5s ease-out;
 }
 
 //Nav
-nav#main{
-  position:fixed;
-  top:0;
-  width:100%;
-  z-index:1;
-  #menu{
+nav#main {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  #menu {
     background-color: $main-nav-bg-colour;
     font-size: 0;
-    a{
-      padding:2rem 1.5rem;
-      color:$main-nav-text-colour;
-      text-transform:uppercase;
+    a {
+      padding: 2rem 1.5rem;
+      color: $main-nav-text-colour;
+      text-transform: uppercase;
       font-size: 0.9rem;
       letter-spacing: 0.12rem;
       transition: color 0.3s ease-in-out;
     }
-    a:hover{
-      color:$main-nav-hover-colour;
+    a:hover {
+      color: $main-nav-hover-colour;
       transition: color 0.3s ease-in-out;
     }
     @include breakpoint(small down) {
-        a {
-            padding: 1rem 1.5rem;
-        }
+      a {
+        padding: 1rem 1.5rem;
+      }
     }
   }
 }
@@ -320,161 +381,197 @@ nav#main{
 // mobile responsive
 
 @include breakpoint(small down) {
-    .menu-icon {
-        height: 20px;
-    }
-    .menu-centered > .menu {
-        width:100%;
-    }
-    .small-12 {
-        padding: 1rem 0.5rem;
-    }
-
-    .how-we-work-tabs > .tabs-panel, .sub-tabs-content > .tabs-panel {
-        padding-bottom: 30rem;
-    }
-
+  .menu-icon {
+    height: 20px;
+  }
+  .menu-centered > .menu {
+    width: 100%;
+  }
+  .small-12 {
+    padding: 1rem 0.5rem;
   }
 
-
-
-//hero background styling
-section{
-  position:relative;
-  div{position:relative;}
+  .how-we-work-tabs > .tabs-panel,
+  .sub-tabs-content > .tabs-panel {
+    padding-bottom: 30rem;
+  }
 }
 
-.hero{
+//hero background styling
+section {
+  position: relative;
+  div {
+    position: relative;
+  }
+}
+
+.hero {
   padding: 11rem 0 0rem 0;
   color: $hero-font-colour;
 }
 
-.full-height-hero{min-height:70vh;}
-.half-height-hero{min-height:40vh;}
+.full-height-hero {
+  min-height: 70vh;
+}
+.half-height-hero {
+  min-height: 40vh;
+}
 
-.background{
+.background {
   background-position: center;
   background-size: cover;
 }
 
-.tint{
+.tint {
   position: absolute;
-  top:0;
-  bottom:0;
-  left:0;
-  right:0;
-  height:100%;
-  width:100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
 }
 
-.tint-light{
+.tint-light {
   // background-color: $tint-colour;
-  background: -moz-linear-gradient(top,  rgba(255,255,255,0.5) 0%, rgba(255,255,255,1) 100%);
-background: -webkit-linear-gradient(top,  rgba(255,255,255,0.5) 0%,rgba(255,255,255,1) 100%);
-// background: linear-gradient(to bottom,  rgba(255,255,255,0.5) 0%,rgba(255,255,255,1) 100%);
-background: linear-gradient(to bottom, rgba(251, 255, 255, 0.2) -30%, white 140%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=0 );
-
+  background: -moz-linear-gradient(top, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 1) 100%);
+  background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 1) 100%);
+  // background: linear-gradient(to bottom,  rgba(255,255,255,0.5) 0%,rgba(255,255,255,1) 100%);
+  background: linear-gradient(to bottom, rgba(251, 255, 255, 0.2) -30%, white 140%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=0 );
 }
 
 //call-to-action-bar
-#call-to-action{
+#call-to-action {
   background-color: $call-to-action-bg;
   // border-top: solid 1px #efefef;
-  padding:2rem 0;
-  position:absolute;
-  bottom:0;
-  width:100%;
-  color:$call-to-action-text-colour;
-  h6{margin:0;}
-  i{color:$call-to-action-colour;}
-  .button{margin:0;}
+  padding: 2rem 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: $call-to-action-text-colour;
+  h6 {
+    margin: 0;
+  }
+  i {
+    color: $call-to-action-colour;
+  }
+  .button {
+    margin: 0;
+  }
 }
 
 // FOOTER
-footer{
-  background-color:$footer-bg-colour;
-  color:$footer-text-colour;
+footer {
+  background-color: $footer-bg-colour;
+  color: $footer-text-colour;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
   font-size: 0.8rem;
-  padding:2rem 0;
-  ul{margin:0;}
-  li{list-style: none;}
-  a{color:$footer-text-colour;}
-  a:hover {
-      color:$oc-light-blue;
+  padding: 2rem 0;
+  ul {
+    margin: 0;
   }
-  h3{color:$footer-heading-colour;}
-  p.email{text-transform: lowercase; letter-spacing: 0.1rem;}
+  li {
+    list-style: none;
+
+    a {
+      font-size: 18px;
+    }
+  }
+
+  a {
+    color: $footer-text-colour;
+  }
+  a:hover {
+    color: $oc-light-blue;
+  }
+  h3 {
+    color: $footer-heading-colour;
+  }
+  p.email {
+    text-transform: lowercase;
+    letter-spacing: 0.1rem;
+  }
 }
 
-footer#copy-footer{
+footer#copy-footer {
   letter-spacing: 0.1rem;
-  padding-top:0;
+  padding-top: 0;
 }
 
 //TABS
 ul.tabs {
-    text-align: center;
-    font-size: 0;
-    li {
-        float: none !important;
-        display: inline-block;
-        a{font-size: 1rem;}
+  text-align: center;
+  font-size: 0;
+  li {
+    float: none !important;
+    display: inline-block;
+    a {
+      font-size: 1rem;
     }
+  }
 }
 
 // .tabs-title {text-transform:uppercase;}
 
-.parent-tabs > .tabs-panel{padding:0;}
-.sub-tabs-content > .tabs-panel {padding-bottom:13rem; min-height: 27rem; padding-top:4rem;}
-.how-we-work-tabs > .tabs-panel {padding:4rem; padding-bottom:12rem; min-height: 20rem;}
-
-@media only screen and (max-width: 40em) {
-
-    .how-we-work-tabs > .tabs-panel, .sub-tabs-content > .tabs-panel {
-        padding-bottom:20rem;
-    }
-    .ocbutton {
-        margin-top:30px;
-    }
-    .full-height-hero {
-        padding-bottom: 10rem;
-    }
-    ul.tabs li {
-        width: 100%;
-    }
- }
-
- @include breakpoint(small down) {
-
-     .how-we-work-tabs > .tabs-panel, .sub-tabs-content > .tabs-panel {
-         padding-bottom: 30rem;
-     }
-
-     .ui-tabs-panel {
-        padding: 0 10px;
-    }
-    .full-height-hero {
-        padding-bottom: 17rem;
-    }
-
+.parent-tabs > .tabs-panel {
+  padding: 0;
+}
+.sub-tabs-content > .tabs-panel {
+  padding-bottom: 13rem;
+  min-height: 27rem;
+  padding-top: 4rem;
+}
+.how-we-work-tabs > .tabs-panel {
+  padding: 4rem;
+  padding-bottom: 12rem;
+  min-height: 20rem;
 }
 
+@media only screen and (max-width: 40em) {
+  .how-we-work-tabs > .tabs-panel,
+  .sub-tabs-content > .tabs-panel {
+    padding-bottom: 20rem;
+  }
+  .ocbutton {
+    margin-top: 30px;
+  }
+  .full-height-hero {
+    padding-bottom: 10rem;
+  }
+  ul.tabs li {
+    width: 100%;
+  }
+}
 
+@include breakpoint(small down) {
+  .how-we-work-tabs > .tabs-panel,
+  .sub-tabs-content > .tabs-panel {
+    padding-bottom: 30rem;
+  }
 
+  .ui-tabs-panel {
+    padding: 0 10px;
+  }
+  .full-height-hero {
+    padding-bottom: 17rem;
+  }
+}
 
-ul.sub-tabs{
+ul.sub-tabs {
   background-color: $sub-tabs-bg-colour;
-  .tabs-title > a:focus, .tabs-title > a[aria-selected='true']{background-color: $sub-tabs-active-colour;}
+  .tabs-title > a:focus,
+  .tabs-title > a[aria-selected="true"] {
+    background-color: $sub-tabs-active-colour;
+  }
   font-size: 0;
 }
 
-.tabs-panel{background-size: cover;}
+.tabs-panel {
+  background-size: cover;
+}
 // #panelh1{background-image: url(../img/bw/hero-bg-2.png);}
-
-
 
 // prevent flash of unstyled content for responsive nav
 .no-js {
@@ -492,68 +589,66 @@ ul.sub-tabs{
 }
 
 .tabs {
-    margin: 0;
-    list-style-type: none;
-    background: #182144;
-    border: 1px solid none;
+  margin: 0;
+  list-style-type: none;
+  background: #182144;
+  border: 1px solid none;
 }
 
 .tabs-panel li {
-list-style-type: disc;
-line-height: 2;
-font-size: 14px;
-text-align: left;
-
+  list-style-type: disc;
+  line-height: 2;
+  font-size: 14px;
+  text-align: left;
 }
 
 .tabs-title a {
-color:#fff;
+  color: #fff;
 }
 
 .tabs-title.is-active a {
-color:#fff;
+  color: #fff;
 }
 
 .sub-tabs .tabs-title a:hover {
-color:#000;
-background:#ddd;
+  color: #000;
+  background: #ddd;
 }
 
 .sub-tabs .tabs-title a {
-color:#333;
+  color: #333;
 }
 
 .tabs-title > a:hover {
-    background: #293256;
-    color: #fff;
+  background: #293256;
+  color: #fff;
 }
 
 iframe {
-    margin-bottom: -6px;
+  margin-bottom: -6px;
 }
 
 .subheading {
-    font-size: 1rem;
-    font-weight: 600;
-    margin-top:20px;
-    letter-spacing: 0rem;
-    font-size: 0.9rem;
-
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 20px;
+  letter-spacing: 0rem;
+  font-size: 0.9rem;
 }
 
 p {
-    margin-top: 20px;
-    margin-bottom: 30px;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
 
 h2 {
-letter-spacing: 0.1rem;
-margin-top: 30px;
+  letter-spacing: 0.1rem;
+  margin-top: 30px;
 }
 
 .bullet-points {
-// border-bottom: 1px solid #c5c1c1;
-margin-bottom: 5px;
+  // border-bottom: 1px solid #c5c1c1;
+  margin-bottom: 5px;
 }
 
 // li.bullet-points:before {
@@ -571,30 +666,29 @@ margin-bottom: 5px;
 //     position: relative;
 // }
 
-.triangle-bullets{
-margin-bottom:50px;
-
+.triangle-bullets {
+  margin-bottom: 50px;
 }
 
-.tabs-title > a:focus, .tabs-title > a[aria-selected='true'] {
-    background: #293256;
+.tabs-title > a:focus,
+.tabs-title > a[aria-selected="true"] {
+  background: #293256;
 }
 
 .contact-details-row {
-    background:#182144;
-    // background: rgba(24,33,68,1);
-    color:#fff;
-    padding-top:80px;
+  background: #182144;
+  // background: rgba(24,33,68,1);
+  color: #fff;
+  padding-top: 80px;
 }
 
 .contact-details-row a {
-    color:#fff;
+  color: #fff;
 }
 
 .contact-details-row a:hover {
-    color:#888888;
+  color: #888888;
 }
-
 
 // tabs-title
 
@@ -606,76 +700,72 @@ margin-bottom:50px;
 // }
 
 #tabs {
-    ul {
-        margin-top: 40px;
-        margin-left: 0;
-        list-style: none;
+  ul {
+    margin-top: 40px;
+    margin-left: 0;
+    list-style: none;
 
-        li {
+    li {
+      a {
+        display: block;
+        padding: 10px 20px;
+        background: $oc-dark-tint;
+        color: white;
+        border-bottom: 1px solid white;
 
-            a {
-                display:block;
-                padding: 10px 20px;
-                background: $oc-dark-tint;
-                color: white;
-                border-bottom: 1px solid white;
-
-            &:hover {
-                background: $oc-blue;
-            }
-            &:focus {
-                outline: none;
-            }
-
-            }
+        &:hover {
+          background: $oc-blue;
         }
+        &:focus {
+          outline: none;
+        }
+      }
     }
+  }
 }
 div#summary {
-    margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 
 // Team page //
 
 .justify {
-	text-align: justify;
-
+  text-align: justify;
 }
 
 .team-bg {
-    background-color: #f6f6f6;
-    padding: 30px;
-    margin-top: 40px;
-		margin-bottom: 40px;
-    padding-top: 1px;
+  background-color: #f6f6f6;
+  padding: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding-top: 1px;
 }
 
 .team-name {
-	text-transform: inherit;
-	letter-spacing: normal;
-	color: #152c5b;
-	font-weight: 600;
-	font-size: 20px;
+  text-transform: inherit;
+  letter-spacing: normal;
+  color: #152c5b;
+  font-weight: 600;
+  font-size: 20px;
 }
 
 .team-title {
-	text-transform: inherit;
-	letter-spacing: normal;
-	color: #87888a;
-	font-weight: 600;
-	font-size: 18px;
-	line-height: 12px;
-
+  text-transform: inherit;
+  letter-spacing: normal;
+  color: #87888a;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 12px;
 }
 // Footer image hover
 #copy-footer img.style {
-	margin: 20px 0 20px 5px;
-   opacity: 1;
-   transition: opacity .25s ease-in-out;
-   -moz-transition: opacity .25s ease-in-out;
-   -webkit-transition: opacity .25s ease-in-out;
-   }
+  margin: 20px 0 20px 5px;
+  opacity: 1;
+  transition: opacity 0.25s ease-in-out;
+  -moz-transition: opacity 0.25s ease-in-out;
+  -webkit-transition: opacity 0.25s ease-in-out;
+}
 
-  #copy-footer img.style:hover {
-      opacity: 0.5;
-      }
+#copy-footer img.style:hover {
+  opacity: 0.5;
+}
