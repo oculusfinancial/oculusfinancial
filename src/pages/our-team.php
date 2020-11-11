@@ -33,7 +33,7 @@
                     <ul class="text-uppercase">
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s"><a href="#steven-kay">Steven Kay QC</a></li>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#james-chalmer">James Chalmer</a></li>
-                        <?php // <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s"><a href="#yousef-al-majali">Yousef Al-Majali</a></li> ?>
+                        <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s"><a href="#yvonne-rodgers">Yvonne Rodgers</a></li>
                         <?php //<li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#david-tinsley">David Tinsley</a></li> ?>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.8s"><a href="#michael-davies">Michael Davies</a></li>
                         <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#richard-tickle">Richard Tickle</a></li>
@@ -65,13 +65,13 @@
                               <p>James Chalmer is a co-founder and Director of Oculus and serves as Chief Executive Officer of the company.</p>
                             </article>
 
-                            <?php /*<article>
+                            <article>
                               <header>
-                                <h2 class="team-name">Yousef Al-Majali </h2><h3 class="team-title">Director</h3>
+                                <h2 class="team-name">Yvonne Rodgers </h2><h3 class="team-title">Chief Operating Officer</h3>
                                 <hr>
                               </header>
-                              <p>Yousef Al-Majali is a co-founder and Director of Oculus.</p>
-                            </article> */ ?>
+                              <p>Yvonne Rodgers is our Chief Operating Officer.</p>
+                            </article>
 
                             <?php /*<article>
                               <header>
@@ -168,31 +168,22 @@
                             </article>
                         </div>
 
-                        <?php /*
-                        <div id="yousef-al-majali">
+
+                        <div id="yvonne-rodgers">
                             <article class="justify">
                               <header>
-                                <h2 class="team-name">Yousef Al-Majali </h2><h3 class="team-title">Director</h3>
+                                <h2 class="team-name">Yvonne Rodgers </h2><h3 class="team-title">Chief Operating Officer</h3>
                                 <hr>
                               </header>
                                 <p>
-                                  Yousef Al-Majali is a co-founder and Director of Oculus. Yousef is fluent in Arabic, speaks basic Mandarin and holds a BA in International Relations from the University of Exeter. He brings significant financial markets, company operations and business development experience to Oculus as well as extensive market experience internationally, having worked out of the Levant, the GCC Region, North Africa, Malaysia, Azerbaijan, and The Far East as well as the United Kingdom.
+                                  Yvonne Rodgers is our Chief Operating Officer.
                                 </p>
                                 <p>
-                                  In 2008 Yousef founded Salim Security Group Ltd, a private security company registered in the Hashemite Kingdom of Jordan. The company sponsored the Special Operations Forces Exhibition 2008 (SOFEX 2008 – www.sofexjordan.com) and ceased operations in 2010 amongst the coalition draw-down in Iraq and changing political circumstances in the Middle East. Between 2008 and 2011 Yousef also worked closely with Skytech International (also known as Skytech Helicopters) an international defence equipment brokerage based in Belgium, while registered with UK export control Yousef represented Skytech in a number of interactions with prospective clients, original equipment manufacturers and defence buyers at government level.
-                                </p>
-                                <p>
-                                  In 2012 Yousef was Chief Operating Officer of G Six International Group WLL, a Private Equity investment brokerage and principle investor focused on the Middle East region registered in the Kingdom of Bahrain. The company was owned by a leading member of the Bahraini Royal family and an Ultra High Net Worth Individual. In his capacity as COO Yousef was also the Middle East Director for and Board Representative to EON Reality Inc. (www.eonreality.com), a company registered in the State of California in the United States. Yousef worked closely with the Chairman of EON Reality and was responsible for business development and investment promotion to prospective international clients, including Sovereign State Investment Authorities, Corporates and High-Net-Worth Individuals.
-                                </p>
-                                <p>
-                                  In 2014, prior to co-founding Oculus, Yousef was a senior equity analyst for Camargue Capital Management LLP, a global long/short equity Hedge Fund based in London. Yousef identified equities of investment interest for the Hedge Fund, using bottom-up fundamental analysis, qualitative and quantitative analysis during which time he had regular contact with leading investment banks and public company executives.
-                                </p>
-                                <p>
-                                  Yousef’s, international network, entrepreneurial track record and his significant business experience internationally combined with his professional experiences in both Private Equity and the Hedge Fund sectors brings to Oculus significant operational, global financial markets and international business experience and oversight for the service of our clients.
+                                  Yvonne is a transformational executive from the Global Banking and Consultancy industries. She has a consistent record of positioning organisations for success, spurring the opening of new revenue streams and building highly accomplished teams that demonstrate a dedication to operational excellence. She excels at achieving results and turning situations around quickly, to maximise business capabilities, operations and service offerings.
                                 </p>
                             </article>
                         </div>
-                        */ ?>
+                        
 
 
                         <?php /*<div id="david-tinsley">

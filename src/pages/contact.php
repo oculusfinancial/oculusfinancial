@@ -49,8 +49,10 @@
 </div>
 
 <div>
+<?php /* XXX mapbox update - https://blog.mapbox.com/deprecating-studio-classic-styles-d8892ac38cb4
 <iframe width='100%' height="500px" frameBorder='0' src='https://a.tiles.mapbox.com/v4/lu777.pp8f1a4o/zoompan.html?access_token=pk.eyJ1IjoibHU3NzciLCJhIjoiYmQzYzljNDI2Y2JiN2IwMzEyNzdhZWEwMjJhMGEwZmQifQ.JqLM34r8rYoXL4jQQe4Vcg'></iframe>
 </div>
+*/ ?>
 
 </section>
 
