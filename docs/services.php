@@ -312,7 +312,7 @@
         </div>
         <div class="row column small-centered text-center wow fadeIn" data-wow-duration="2s" data-wow-delay="2s">
           <span>
-            Copyright &copy; <?php echo date('Y'); ?> Oculus Financial Intelligence LTD. All Rights Reserved.
+            Copyright &copy; 2021 Oculus Financial Intelligence LTD. All Rights Reserved.
             <!-- Website by <a href="http://www.superframe.io/" target="_blank" class="dissolve">SUPERFRAME</a> -->
           </span>
         </div>

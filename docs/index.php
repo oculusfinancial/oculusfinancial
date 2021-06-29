@@ -26,27 +26,18 @@
     <!-- /end home page meta -->
     </head>
     <body class="wow animated fadeIn" data-wow-duration="0.5s" data-wow-delay="0">
-    <!-- === PHP for home page / about page decisionmaking, and loading of the intro graphic === -->
-    <?php if (!isset($page_id)) { //checks to see if if the variable pgae_id has a value set by the about.html page.
-      //then sets the page_id to index if it is not set to anything else yet.
-      $page_id = "home";
-    }
-    ?>
-    <!--  
-    <?php if ($page_id == "home") { ?>
-      <!--checks to see if the page id has already been set to about by the about.php page
+
+    <!--
     <div class="outer" id="#videoholder">
       <div class="middle animated fadeIn">
         <div class="inner">
           <div id="video1">
-            <img src="assets/videos/oculus-intro-small.gif?<?php echo date("Ymdgis"); ?>" alt="" />
+            <img src="assets/videos/oculus-intro-small.gif" alt="" />
           </div>
         </div>
       </div>
     </div>
-    <?php } ?>
-    <!-- === END of PHP for home page / about page decisionmaking, and loading of the intro graphic === -->
-    
+    -->
     
     <header>
       <nav id="main">
@@ -162,7 +153,7 @@
       </div>
       <div class="row column small-centered text-center wow fadeIn" data-wow-duration="2s" data-wow-delay="2s">
         <span>
-          Copyright &copy; <?php echo date('Y'); ?> Oculus Financial Intelligence LTD. All Rights Reserved.
+          Copyright &copy; 2021 Oculus Financial Intelligence LTD. All Rights Reserved.
           <!-- Website by <a href="http://www.superframe.io/" target="_blank" class="dissolve">SUPERFRAME</a> -->
         </span>
       </div>

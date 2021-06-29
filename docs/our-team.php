@@ -77,11 +77,11 @@
                             <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s"><a href="#steven-kay">Steven Kay QC</a></li>
                             <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#james-chalmer">James Chalmer</a></li>
                             <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s"><a href="#yvonne-rodgers">Yvonne Rodgers</a></li>
-                            <?php //<li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#david-tinsley">David Tinsley</a></li> ?>
+                            <!-- <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#david-tinsley">David Tinsley</a></li> -->
                             <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.8s"><a href="#michael-davies">Michael Davies</a></li>
                             <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#richard-tickle">Richard Tickle</a></li>
                             <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"><a href="#richard-proctor">Richard Proctor</a></li>
-                            <?php // <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"><a href="#alastair-kight">ALASTAIR KIGHT</a></li> ?>
+                            <!-- <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"><a href="#alastair-kight">ALASTAIR KIGHT</a></li> -->
                           </ul>
     
                         </div>
@@ -116,13 +116,15 @@
                                   <p>Yvonne Rodgers is our Chief Operating Officer.</p>
                                 </article>
     
-                                <?php /*<article>
+                                <!--
+                                <article>
                                   <header>
                                     <h2 class="team-name">David Tinsley</h3><h3 class="team-title"> Director</h3>
                                     <hr>
                                   </header>
                                   <p>David Tinsley is a co-founder and Director of Oculus.</p>
-                                </article> */ ?>
+                                </article>
+                                -->
     
                                 <article>
                                   <header>
@@ -149,7 +151,7 @@
                                   <p>Richard Proctor is a Director of Oculus and serves as the in-house Legal Counsel of the company.</p>
                                 </article>
     
-                                <?php /*
+                                <!--
                                 <article>
                                   <header>
                                     <h2 class="team-name">Alastair Kight </h2><h3 class="team-title"> Director</h3>
@@ -157,7 +159,7 @@
                                   </header>
                                   <p>Alastair Kight is a co-founder and Director of Oculus.</p>
                                 </article>
-                                */ ?>
+                                -->
     
     
     
@@ -229,7 +231,8 @@
                             
     
     
-                            <?php /*<div id="david-tinsley">
+                            <!-- 
+                            <div id="david-tinsley">
                                 <article class="justify">
                                   <header>
                                     <h2 class="team-name">David Tinsley </h2><h3 class="team-title"> Director</h3>
@@ -263,7 +266,8 @@
                                      David’s significant law enforcement and intelligence community experience, international HUMINT network and significant operational supply chain combined with his market leading expertise on leveraging government award payments brings to Oculus a powerful support structure and strengthens the strategic partnership between Oculus and 5Si at board level.
                                     </p>
                                 </article>
-                            </div> */ ?>
+                            </div>
+                            -->
     
     
                             <div id="michael-davies">
@@ -329,7 +333,7 @@
                                </article>
                            </div>
     
-                            <?php /*
+                            <!--
                             <div id="alastair-kight">
                                 <article class="justify">
                                   <header>
@@ -342,7 +346,7 @@
     
                                 </article>
                             </div>
-                            */ ?>
+                            -->
     
                           </div>
                         </div>
@@ -398,7 +402,7 @@
         </div>
         <div class="row column small-centered text-center wow fadeIn" data-wow-duration="2s" data-wow-delay="2s">
           <span>
-            Copyright &copy; <?php echo date('Y'); ?> Oculus Financial Intelligence LTD. All Rights Reserved.
+            Copyright &copy; 2021 Oculus Financial Intelligence LTD. All Rights Reserved.
             <!-- Website by <a href="http://www.superframe.io/" target="_blank" class="dissolve">SUPERFRAME</a> -->
           </span>
         </div>
