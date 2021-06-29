@@ -1,0 +1,212 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- <title>Oculus Financial Intelligence</title> -->
+
+    <link rel="shortcut icon" href="favicon.png">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="canonical" href="http://www.oculus.financial/" />
+
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="assets/animate.css">
+    <script src="assets/wow.min.js"></script>
+    <script>new WOW().init();</script>
+
+    <!-- home page meta -->
+    <title>Oculus Financial Intelligence - How we work</title>
+    <!-- /end home page meta -->
+    </head>
+    <body class="wow animated fadeIn" data-wow-duration="0.5s" data-wow-delay="0">
+    
+    <header>
+      <nav id="main">
+        <div class="title-bar" data-responsive-toggle="menu" data-hide-for="medium">
+          <button class="menu-icon" type="button" data-toggle></button>
+          <!-- <div class="title-bar-title"> MENU</div> -->
+        </div>
+      
+        <div class="menu-centered" id="menu">
+          <!-- <div class="menu-background"></div> -->
+          <ul class="menu vertical medium-horizontal">
+            <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0"><a class="homeLink" href="index.php">home</a></li>
+            <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.1s"><a href="services.php">services</a></li>
+            <!-- 
+            <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s"><a href="how-we-work.php">how we work</a></li>  -->
+            <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.3s"><a href="our-team.php">our team</a></li>
+            <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s"><a href="partners.php">partners</a></li>
+            <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="contact.php">contact</a></li>
+          </ul>
+        </div>
+        <!--/#menu-->
+      </nav>
+    </header>
+    
+    <!-- hero image -->
+    <section class="background how-background hero half-height-hero">
+      <div class="tint tint-light"></div>
+    
+    
+        <div class="row column text-center">
+          <div class="logo wow fadeIn" data-wow-duration="2s" data-wow-delay="0"></div>
+        </div>
+        <div class="row column text-center">
+          <h1 id="title" class="loadanimation wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">how we work</h1>
+        </div>
+    <br>
+    </section>
+    
+    <!-- page content if there is any. -->
+    <section id="content">
+      <div class="text-center">
+        <ul class="tabs" data-tabs data-deep-link="true" id="how-we-work-tabs">
+            <li class="tabs-title wow fadeIn is-active" data-wow-duration="2s" data-wow-delay="0.5s"><a href="#methodology" aria-selected="true">Methodology</a></li>
+            <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s"><a href="#capability">Capability</a></li>
+            <li class="tabs-title wow fadeIn" data-wow-duration="2s" data-wow-delay="0.9s"><a href="#contracting">Contracting With Oculus</a></li>
+        </ul>
+      </div>
+    
+    
+      <div class="tabs-content parent-tabs how-we-work-tabs" data-tabs-content="how-we-work-tabs" data-tabs-content="deeplinked-tabs">
+    
+          <div class="tabs-panel how-methodology-background is-active" id="methodology">
+            <div class="tint tint-light"></div>
+            <div class="row">
+              <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s" data-wow-delay="0">
+                  <!-- <h5 class="subheading">Methodology</h5> -->
+                  <p>Oculus ensures that all its methods of intelligence gathering are legally admissible given the context of the clients’ intentions and do not compromise the outcome or utility to the client of our work. </p>
+                    <p>Oculus uses various combinations of the following intelligence gathering disciplines including:</p>
+                <ul class="triangle-bullets">
+                    <li class="bullet-points">Human Intelligence (HUMINT): Intelligence gathered by means of interpersonal contact by operators working for Oculus or contracted by Oculus.</li>
+                    <li class="bullet-points">Financial Intelligence (FININT): Intelligence gathered about the financial affairs of entities of interest, to understand their nature, capabilities and sources of funds, and predict their intentions.</li>
+                    <li class="bullet-points">Open Source Intelligence (OSINT): Intelligence gathered from publicly available sources.</li>
+                    <li class="bullet-points">Web Intelligence (WEBINT): A sub-discipline of OSINT, intelligence gathered from the world wide-web.</li>
+                </ul>
+                <p>The aforementioned intelligence gathering disciplines are deployed alongside experience and expertise in accounting, financial analysis, civil and criminal law to ensure effective and targeted results.</p>
+              </div>
+            </div>
+          </div>
+    
+            <div class="tabs-panel how-capability-background" id="capability">
+              <div class="tint tint-light"></div>
+              <div class="row">
+                <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s" data-wow-delay="0">
+                    <p>Oculus deploys specialist Intelligence Analysts who hold current security clearance and are at the leading edge of their skill sets. Intelligence Analysts are professionals sourced from backgrounds in the Security and Intelligence Services, Tier One Investment Bank Anti-Money Laundering (AML) teams and Law Enforcement.</p>
+                    <p>Oculus supports its Intelligence Analysts with the deployment of Financial Analysts, Forensic Accounting Experts and Legal Practitioners.</p>
+                </div>
+              </div>
+            </div>
+    
+            <div class="tabs-panel how-contracting-background" id="contracting">
+              <div class="tint tint-light"></div>
+              <div class="row">
+                <div class="wow fadeIn columns small-12 medium-8 small-centered" data-wow-duration="2s" data-wow-delay="0">
+                     <p>Oculus can offer project specific services and evaluates projects for clients on a case by case basis. Clients are quoted costs based upon the forecasted workload. This may be of use if a client has a specific objective in mind.</p>
+    
+                     <p>In addition to this, Oculus offers retained services. This enables a client to have on demand access to our Intelligence Analysts. This may be of use if a client is undertaking a large enhanced due diligence project on a potential investment, such as a merger or an acquisition. As the upfront work requirements may be unclear it can be more cost effective to retain our services during the period of the transaction. Other clients who are for a period of time carrying out many investment transactions may wish to retain us over an extended period of time.</p>
+                </div>
+              </div>
+            </div>
+    
+      </div>
+      <section id="call-to-action">
+        <div class="row column wow fadeIn" data-wow-duration="1s" data-wow-delay="0">
+          <div class="columns small-12 medium-1 small-centered medium-uncentered text-center medium-text-right">
+            <i class="fa fa-2x fa-comments" aria-hidden="true" style="margin-top:0.4rem;color:#060d1e;"></i>
+          </div>
+          <div class="columns small-12 medium-8 small-centered medium-uncentered text-center medium-text-left">
+            <h6>have a specific project or general enquiry?</h6>
+            <span>Please contact us today and we will endeavour to get back to you within 24 hours.</span>
+          </div>
+          <div class="columns small-12 medium-3 small-centered medium-uncentered text-center">
+            <a class="action ocbutton" href="contact.php"><h6>contact us</h6></a>
+          </div>
+      
+        </div>
+      </section>
+    
+    </section>
+    
+      <footer id="footer">
+        <div class="row column small-centered text-center">
+          <div class="wow fadeIn" data-wow-duration="1s" data-wow-delay="0"></div>
+        </div>
+        <br />
+        <div class="row text-center">
+          <!-- 
+          <div class="columns small-12 medium-4 small-centered medium-uncentered wow fadeIn" data-wow-duration="2s" data-wow-delay="0">
+            <h3>Services</h3>
+            <ul>
+              <li><a class="hashlink" href="services.php#financial-investors">financial investors</a></li>
+              <li><a class="hashlink" href="services.php#corporate-clients">corporate clients</a></li>
+              <li><a class="hashlink" href="services.php#private-clients">private clients</a></li>
+            </ul>
+          </div>  -->
+          <div class="columns small-12 medium-4 small-centered wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
+            <h3>Contact Oculus</h3>
+            <ul>
+              <li>25 Park Lane<br />London, W1K 1RA</li>
+              <li>+44 (0)207 355 7793</li>
+              <li>
+                <a href="https://www.linkedin.com/company/oculus-financial-intelligence-limited/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+              </li>
+            </ul>
+          </div>
+          <!--  
+          <div class="columns small-12 medium-4 small-centered medium-uncentered wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
+            <h3>How we work</h3>
+            <ul>
+              <li><a class="hashlink" href="how-we-work.php#contracting">contracting</a></li>
+              <li><a class="hashlink" href="how-we-work.php#methodology">methodology</a></li>
+              <li><a class="hashlink" href="how-we-work.php#capability">capability</a></li>
+            </ul>
+          </div> -->
+        </div>
+      </footer>
+      <footer id="copy-footer">
+        <div class="row column small-centered text-center wow fadeIn" data-wow-duration="2s" data-wow-delay="2s">
+          <span>
+          We are proud supporters of <a href="http://www.firstlighttrust.co.uk/"  target="_blank"><img class="fadeIn style" src="./assets/img/brand/FirstLight-Trust-logo-310x6-blue background.png" alt="First Light Trust charity logo" width="200"></a>
+          </span>
+        </div>
+        <div class="row column small-centered text-center wow fadeIn" data-wow-duration="2s" data-wow-delay="2s">
+          <span>
+            Copyright &copy; <?php echo date('Y'); ?> Oculus Financial Intelligence LTD. All Rights Reserved.
+            <!-- Website by <a href="http://www.superframe.io/" target="_blank" class="dissolve">SUPERFRAME</a> -->
+          </span>
+        </div>
+      </footer>
+    
+
+    <script src="assets/js/app.js"></script>
+    <!-- <script src="assets/readmore.min.js"></script> -->
+    <script>
+    $( function() {
+        $( "#tabs" ).tabs().addClass( "ui-tabs-vertical ui-helper-clearfix" );
+        $( "#tabs li" ).removeClass( "ui-corner-top" ).addClass( "ui-corner-left" );
+        $( "#tabs" ).tabs({
+                collapsible: true,
+                active: false,
+                activate: function(event, ui){
+                    $.when($( "#summary" ).hide(200)).then(function() {
+                        $('html,body').animate({
+                               scrollTop: $("#articles").offset().top -100
+                           }, "slow");
+                    });
+                },
+                show: function(event, ui) {
+                    $(ui.panel).show("slow");
+                }
+        });
+    });
+    </script>
+  </body>
+</html>

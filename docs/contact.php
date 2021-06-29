@@ -1,0 +1,176 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- <title>Oculus Financial Intelligence</title> -->
+
+    <link rel="shortcut icon" href="favicon.png">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="canonical" href="http://www.oculus.financial/" />
+
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="assets/animate.css">
+    <script src="assets/wow.min.js"></script>
+    <script>new WOW().init();</script>
+
+    <!-- home page meta -->
+    <title>Oculus Financial Intelligence - Contact</title>
+    <!-- /end home page meta -->
+    </head>
+    <body class="wow animated fadeIn" data-wow-duration="0.5s" data-wow-delay="0">
+    
+    <header>
+      <nav id="main">
+        <div class="title-bar" data-responsive-toggle="menu" data-hide-for="medium">
+          <button class="menu-icon" type="button" data-toggle></button>
+          <!-- <div class="title-bar-title"> MENU</div> -->
+        </div>
+      
+        <div class="menu-centered" id="menu">
+          <!-- <div class="menu-background"></div> -->
+          <ul class="menu vertical medium-horizontal">
+            <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0"><a class="homeLink" href="index.php">home</a></li>
+            <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.1s"><a href="services.php">services</a></li>
+            <!-- 
+            <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s"><a href="how-we-work.php">how we work</a></li>  -->
+            <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.3s"><a href="our-team.php">our team</a></li>
+            <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s"><a href="partners.php">partners</a></li>
+            <li class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s"><a href="contact.php">contact</a></li>
+          </ul>
+        </div>
+        <!--/#menu-->
+      </nav>
+    </header>
+    
+    <!-- hero image -->
+    <section class="background contact-background hero half-height-hero">
+      <div class="tint tint-light"></div>
+    
+        <div class="row column text-center">
+          <div class="logo wow fadeIn" data-wow-duration="2s" data-wow-delay="0"></div>
+        </div>
+        <div class="row column text-center">
+          <h1 id="title" class="loadanimation wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">Contact Oculus</h1>
+        </div>
+    <br>
+    
+    </section>
+    
+    <!-- page content if there is any. -->
+    <section id="content">
+    
+    <div class="contact-details-row">
+        <div class="row text-center">
+            <div class="columns small-12 medium-4 small-centered medium-uncentered wow fadeIn" data-wow-duration="2s" data-wow-delay="0.3s">
+                <h6><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;Telephone</h6>
+                <p>+44 (0)207 355 7793</p>
+                <br>
+            </div>
+    
+            <div class="columns small-12 medium-4 small-centered medium-uncentered wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s">
+                <h6><i class="fa fa-map-o" aria-hidden="true"></i>&nbsp;address</h6>
+                <p>25 Park Lane<br>London, W1K 1RA</p>
+                <br>
+                <br>
+            </div>
+    
+            <div class="columns small-12 medium-4 small-centered medium-uncentered wow fadeIn" data-wow-duration="2s" data-wow-delay="0.7s">
+                <h6><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;Email</h6>
+                <p><a href="mailto:enquiries@oculus.financial">enquiries@oculus.financial</a></p>
+                <br>
+            </div>
+        </div>
+    
+    </div>
+    
+    <div>
+    <?php /* XXX mapbox update - https://blog.mapbox.com/deprecating-studio-classic-styles-d8892ac38cb4
+    <iframe width='100%' height="500px" frameBorder='0' src='https://a.tiles.mapbox.com/v4/lu777.pp8f1a4o/zoompan.html?access_token=pk.eyJ1IjoibHU3NzciLCJhIjoiYmQzYzljNDI2Y2JiN2IwMzEyNzdhZWEwMjJhMGEwZmQifQ.JqLM34r8rYoXL4jQQe4Vcg'></iframe>
+    </div>
+    */ ?>
+    
+    </section>
+    
+      <footer id="footer">
+        <div class="row column small-centered text-center">
+          <div class="wow fadeIn" data-wow-duration="1s" data-wow-delay="0"></div>
+        </div>
+        <br />
+        <div class="row text-center">
+          <!-- 
+          <div class="columns small-12 medium-4 small-centered medium-uncentered wow fadeIn" data-wow-duration="2s" data-wow-delay="0">
+            <h3>Services</h3>
+            <ul>
+              <li><a class="hashlink" href="services.php#financial-investors">financial investors</a></li>
+              <li><a class="hashlink" href="services.php#corporate-clients">corporate clients</a></li>
+              <li><a class="hashlink" href="services.php#private-clients">private clients</a></li>
+            </ul>
+          </div>  -->
+          <div class="columns small-12 medium-4 small-centered wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
+            <h3>Contact Oculus</h3>
+            <ul>
+              <li>25 Park Lane<br />London, W1K 1RA</li>
+              <li>+44 (0)207 355 7793</li>
+              <li>
+                <a href="https://www.linkedin.com/company/oculus-financial-intelligence-limited/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+              </li>
+            </ul>
+          </div>
+          <!--  
+          <div class="columns small-12 medium-4 small-centered medium-uncentered wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
+            <h3>How we work</h3>
+            <ul>
+              <li><a class="hashlink" href="how-we-work.php#contracting">contracting</a></li>
+              <li><a class="hashlink" href="how-we-work.php#methodology">methodology</a></li>
+              <li><a class="hashlink" href="how-we-work.php#capability">capability</a></li>
+            </ul>
+          </div> -->
+        </div>
+      </footer>
+      <footer id="copy-footer">
+        <div class="row column small-centered text-center wow fadeIn" data-wow-duration="2s" data-wow-delay="2s">
+          <span>
+          We are proud supporters of <a href="http://www.firstlighttrust.co.uk/"  target="_blank"><img class="fadeIn style" src="./assets/img/brand/FirstLight-Trust-logo-310x6-blue background.png" alt="First Light Trust charity logo" width="200"></a>
+          </span>
+        </div>
+        <div class="row column small-centered text-center wow fadeIn" data-wow-duration="2s" data-wow-delay="2s">
+          <span>
+            Copyright &copy; <?php echo date('Y'); ?> Oculus Financial Intelligence LTD. All Rights Reserved.
+            <!-- Website by <a href="http://www.superframe.io/" target="_blank" class="dissolve">SUPERFRAME</a> -->
+          </span>
+        </div>
+      </footer>
+    
+
+    <script src="assets/js/app.js"></script>
+    <!-- <script src="assets/readmore.min.js"></script> -->
+    <script>
+    $( function() {
+        $( "#tabs" ).tabs().addClass( "ui-tabs-vertical ui-helper-clearfix" );
+        $( "#tabs li" ).removeClass( "ui-corner-top" ).addClass( "ui-corner-left" );
+        $( "#tabs" ).tabs({
+                collapsible: true,
+                active: false,
+                activate: function(event, ui){
+                    $.when($( "#summary" ).hide(200)).then(function() {
+                        $('html,body').animate({
+                               scrollTop: $("#articles").offset().top -100
+                           }, "slow");
+                    });
+                },
+                show: function(event, ui) {
+                    $(ui.panel).show("slow");
+                }
+        });
+    });
+    </script>
+  </body>
+</html>
